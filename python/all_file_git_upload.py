@@ -6,9 +6,10 @@ import time
 
 def git_upload_files(path):
 	os.chdir(path)
+	msg0 = '"'
 	msg = time.ctime(time.time()) + "commit"
 	git_add = "git add *"
-	git_commit = "git commit -m {}".format(msg)
+	git_commit = "git commit -m {}{}{}".format(msg0, msg, msg0)
 	git_push = "git push origin main"
 	
 	os.system(git_add)
