@@ -39,8 +39,7 @@ def blur_faces(images_path):
 		print("images blured")
 		input()
 
-def test():
-	#check harcascade in web cam:
+
 		 
 class verifyPhoto:
 	def __init__(self):
@@ -56,10 +55,13 @@ class verifyPhoto:
 	#check if face found
 	#cant find the face yet
 	def check_if_face_found(self, img_path):
-		img = cv2.imread(img_path, cv2.)
+		img = cv2.imread(img_path)
+		print(img)
+		input()
+		gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 		face_cascade_path = os.getcwd() + "/harcascade/harcascade_frontal_alt.xml"
 		face_cascade = cv2.CascadeClassifier(face_cascade_path)
-		faces = face_cascade.detectMultiScale(img, 1.1, 2)
+		faces = face_cascade.detectMultiScale(img, 1.1, 5)
 		print(faces)
 		print(len(faces))
 		input()
@@ -80,11 +82,38 @@ class verify_document:
 		pass
 
  
+def test():
+	#check harcascade in web cam:
+	face_cascade_path = os.getcwd() + "/harcascade/harcascade_frontal_alt.xml"
+	face_cascade = cv2.CascadeClassifier(face_cascade_path)
+	 
 
 
+
+	video_capture = cv2.VideoCapture(0)
+	while True:
+		ret, frame = video_capture.read()
+		gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+		faces = face_cascade.detectMultiScale(gray, 1.1, 5)
+
+		for x, y, w, h in faces:
+			cv2.rectangle(frame, (x,y), (x+w, y+h), (0, 255, 0), 2)
+
+		cv2.imshow("Face", frame)
+		if cv2.waitKey(1) & 0xFF == ord('q'):
+			break
+
+	video_capture.release()
+	cv2.destroyAllWindows()
+
+
+    	 
 
 
 if __name__ == '__main__':
+	#test()
+
+	#input("testing:")
 	images_path = "/home/sujan/Documents/read2lead/python/verify document/sample images/"
 	#blur_faces(images_path)
 	images= os.listdir(images_path)
