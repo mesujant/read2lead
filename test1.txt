@@ -1,0 +1,23 @@
+total 96
+drwxrwxr-x 19 sujan sujan  4096 अक्टूबर  22 15:47 ./
+drwxr-xr-x  6 sujan sujan  4096 अक्टूबर  19 13:43 ../
+drwxrwxr-x  2 sujan sujan  4096 सितम्बर 23 18:02 Active Directory/
+drwxrwxr-x  2 sujan sujan  4096 सितम्बर 22 17:00 cacti/
+drwxrwxr-x  2 sujan sujan  4096 सितम्बर 22 17:00 docker/
+drwxrwxr-x  8 sujan sujan  4096 अक्टूबर  21 21:53 .git/
+drwxrwxr-x  6 sujan sujan  4096 अक्टूबर  18 17:36 horizon/
+drwxrwxr-x  2 sujan sujan  4096 अक्टूबर  17 08:51 iptables/
+drwxrwxr-x  2 sujan sujan  4096 सितम्बर 29 11:47 knowledge base/
+drwxrwxr-x  3 sujan sujan  4096 अक्टूबर  21 21:54 linux/
+drwxrwxr-x  2 sujan sujan  4096 अक्टूबर  21 21:54 nagios/
+drwxrwxr-x  2 sujan sujan  4096 अक्टूबर  17 08:51 nmap/
+drwxrwxr-x  3 sujan sujan  4096 अक्टूबर  21 21:54 PBX/
+drwxrwxr-x  3 sujan sujan  4096 सितम्बर 29 22:17 python/
+-rw-rw-r--  1 sujan sujan    51 सितम्बर 22 16:56 README.md
+drwxrwxr-x  2 sujan sujan  4096 सितम्बर 22 17:02 remove_spikes/
+-rw-rw-r--  1 sujan sujan     0 अक्टूबर  22 15:47 test1.txt
+-rw-rw-r--  1 sujan sujan 14977 अक्टूबर  17 08:54 test_exam.odt
+drwxrwxr-x  2 sujan sujan  4096 अक्टूबर  21 21:43 vpn/
+drwxrwxr-x  2 sujan sujan  4096 अक्टूबर  19 17:41 webserver/
+drwxrwxr-x  2 sujan sujan  4096 अक्टूबर   1 14:28 windows server/
+drwxrwxr-x  2 sujan sujan  4096 अक्टूबर  17 08:51 wireshark/
