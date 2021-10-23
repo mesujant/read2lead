@@ -1,0 +1,10 @@
+total 40
+drwxrwxr-x  3 sujan sujan  4096 अक्टूबर  23 21:57 .
+drwxrwxr-x 19 sujan sujan  4096 अक्टूबर  23 15:34 ..
+-rwxrwxr-x  1 sujan sujan   505 सितम्बर 29 17:55 all_file_git_upload.py
+-rw-rw-r--  1 sujan sujan  1138 सितम्बर 29 18:02 cut_screenshots1.py
+-rw-rw-r--  1 sujan sujan   336 सितम्बर 29 22:10 debugging_1.py
+-rw-rw-r--  1 sujan sujan 11280 सितम्बर 29 22:17 python-learning.odt
+-rw-rw-r--  1 sujan sujan   259 अक्टूबर  23 21:59 test_1.py
+-rw-rw-r--  1 sujan sujan     0 अक्टूबर  23 21:59 test_1.txt
+drwxrwxr-x  6 sujan sujan  4096 अक्टूबर  18 09:04 verify document
