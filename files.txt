@@ -1,0 +1,685 @@
+/home/sujan/Documents/read2lead/windows server/windows-server-learning.odt
+/home/sujan/Documents/read2lead/Active Directory/active-directory-learning.odt
+/home/sujan/Documents/read2lead/.~lock.test_exam.odt#
+/home/sujan/Documents/read2lead/.git/objects/81/39542c0e9b660284d9ffff7703737aea33b7ac
+/home/sujan/Documents/read2lead/.git/objects/48/98afa901091dd6b8e8e6efcf9241f1cfb5e24d
+/home/sujan/Documents/read2lead/.git/objects/48/28809a0d5e96dbfd8a6833cd01d4aeb6c84505
+/home/sujan/Documents/read2lead/.git/objects/fe/03de17858d66ff2a7ff800c86c7077cf00faa6
+/home/sujan/Documents/read2lead/.git/objects/4c/58da9113d23c31c30b3b6fe351ac0c75f0b8ca
+/home/sujan/Documents/read2lead/.git/objects/4c/1604daec505274b6636e5dd2f769ce91faf05b
+/home/sujan/Documents/read2lead/.git/objects/a3/da67b76420a04e0f757f49391554aee20da09a
+/home/sujan/Documents/read2lead/.git/objects/a3/75174cb479c5ed4c1bd9eb06347096f02e75dd
+/home/sujan/Documents/read2lead/.git/objects/a3/33dc0c3ea0df2b058baed443ab22d1b9412c76
+/home/sujan/Documents/read2lead/.git/objects/40/a66780fbdda3bd3a25cf5ea4c6f8f6a8eeefc8
+/home/sujan/Documents/read2lead/.git/objects/40/7f6b8ece7833d6a48123f2a3d1f969c10e87ba
+/home/sujan/Documents/read2lead/.git/objects/40/909d68cd52af58a73f9802ee04154182c932d9
+/home/sujan/Documents/read2lead/.git/objects/95/6d93bd71585b45b6695a8cc336b2073b67211f
+/home/sujan/Documents/read2lead/.git/objects/95/a941741b5c0a5e549b1b7cbbea2099645ca09a
+/home/sujan/Documents/read2lead/.git/objects/b0/d35b5d5d5cb361a1ddcd12d31c84d1fbc8312b
+/home/sujan/Documents/read2lead/.git/objects/b0/7366995c048d9aa215bcc164a0c5c36ebab421
+/home/sujan/Documents/read2lead/.git/objects/b0/cd5d6ae62f6c23da143f79ce300154e13ef769
+/home/sujan/Documents/read2lead/.git/objects/b0/25e642e1457693127bd51d7b011f29c3c3f5d9
+/home/sujan/Documents/read2lead/.git/objects/dc/70985e503cc8020da582517bfb3338043220fb
+/home/sujan/Documents/read2lead/.git/objects/dc/16e65a4bdc4a2c32ca2c2eaa0e99d2beeb307c
+/home/sujan/Documents/read2lead/.git/objects/37/87ab3720ae9daddf2e4c89e84085cb7ba4c942
+/home/sujan/Documents/read2lead/.git/objects/df/b91f3cc0c2a7d7fdd2a76a2723dcb2e670ec5c
+/home/sujan/Documents/read2lead/.git/objects/df/15a9f801aef62287ec118d9bd94a6251ee4e4e
+/home/sujan/Documents/read2lead/.git/objects/97/4556ef4a34f1902ef833b6ce5b55c713e662fb
+/home/sujan/Documents/read2lead/.git/objects/97/3f1ef5b33fcc3a35064542501464da2db2fc57
+/home/sujan/Documents/read2lead/.git/objects/2b/b22b20f1a1cde73c1a84de65dc2cf6be061324
+/home/sujan/Documents/read2lead/.git/objects/9a/607ddeb06fe041d0c31fcdcf11dfa3ab2c6e63
+/home/sujan/Documents/read2lead/.git/objects/9a/542868c70e67f956175469142e0af83883fa02
+/home/sujan/Documents/read2lead/.git/objects/9a/ba3ebdcd02e2d2d3ecf482e4f507abd9c11d7b
+/home/sujan/Documents/read2lead/.git/objects/9a/afe0d62143b2cb891b59012c57eca9c2c278d8
+/home/sujan/Documents/read2lead/.git/objects/f4/390a270a6f1afec477f0b1f7b84d76b687c92b
+/home/sujan/Documents/read2lead/.git/objects/f4/59668e938727489c0a797356aa2eb03896eaee
+/home/sujan/Documents/read2lead/.git/objects/f4/bf860e3cabb061cc2ee556fc9b69f783d89437
+/home/sujan/Documents/read2lead/.git/objects/f4/2e3275ebfa051ccd573de706022e9c2b9a7a65
+/home/sujan/Documents/read2lead/.git/objects/f4/4d6a315c8631352e0368838e0ff0da91a03ec7
+/home/sujan/Documents/read2lead/.git/objects/03/742ed0ef54b854169cdf83172ff10519f12208
+/home/sujan/Documents/read2lead/.git/objects/f5/d501ca5d722d43d41643da356a28c4ed6b0564
+/home/sujan/Documents/read2lead/.git/objects/69/1073d122cd3e6dbcb2b6fc53273033daba613c
+/home/sujan/Documents/read2lead/.git/objects/69/e2c9e146ef1433a18d2fdd3a32efb31fd9bb5d
+/home/sujan/Documents/read2lead/.git/objects/aa/9777ee438714337070b5b11052a64fe0098724
+/home/sujan/Documents/read2lead/.git/objects/aa/689d8349b12368d08a1b2bf2fd197aea8ddbe6
+/home/sujan/Documents/read2lead/.git/objects/70/c74f284f6e701fa11b2bcc7555d58276485b13
+/home/sujan/Documents/read2lead/.git/objects/70/222d4a89e88c665b05831f445e09521154a973
+/home/sujan/Documents/read2lead/.git/objects/e6/04b2345108c0282a577d73ee61e24038fe98ab
+/home/sujan/Documents/read2lead/.git/objects/e6/fc975fe08e81899814999ea846d74f1ceac894
+/home/sujan/Documents/read2lead/.git/objects/e6/e863b8192601c95201571f0b7e034044851cfc
+/home/sujan/Documents/read2lead/.git/objects/42/eaf957589ebecc440cacc871b8057c8090d89f
+/home/sujan/Documents/read2lead/.git/objects/42/602bed36e71c391e3acf551584110e579806c3
+/home/sujan/Documents/read2lead/.git/objects/62/5f1a289762fcb5c7d6e2cbb74d89fc82040b7e
+/home/sujan/Documents/read2lead/.git/objects/62/298a842c71540952dc73fb7e47e8dbe1641596
+/home/sujan/Documents/read2lead/.git/objects/62/4cb893798a8da498e8f5574a0d535ce04c1b65
+/home/sujan/Documents/read2lead/.git/objects/62/356bfea2f38bd2cda4e60d84a45345226378ae
+/home/sujan/Documents/read2lead/.git/objects/04/1739c33ff5bd809195ac36ebe62c48461e8adc
+/home/sujan/Documents/read2lead/.git/objects/04/ece4ebd6992e0cd3802a705fa79009841536e5
+/home/sujan/Documents/read2lead/.git/objects/04/49e4493f7fb5a0e39ced5f08a12fd69645166e
+/home/sujan/Documents/read2lead/.git/objects/26/7798bb3f4ea4faa1072913ac81cbb403f4bb4b
+/home/sujan/Documents/read2lead/.git/objects/6e/58cc2c4adcd6fb08fe11272f66b4e145415c72
+/home/sujan/Documents/read2lead/.git/objects/e9/9d8b519f8a8a6f95f77bac07c67fd7d9b4c204
+/home/sujan/Documents/read2lead/.git/objects/e9/0ff0bcd247b5e7c22087f4acfa2a715477daae
+/home/sujan/Documents/read2lead/.git/objects/bb/07cf2a570669ab20afb5080e7961d8ef07b568
+/home/sujan/Documents/read2lead/.git/objects/bb/0d406e3b40cb9051b30ba318868b40761008e7
+/home/sujan/Documents/read2lead/.git/objects/9c/14127677465d898fd21729ba3c22e1efe1284e
+/home/sujan/Documents/read2lead/.git/objects/58/cdd2c46e75c9ddee658b8555dbe4abcb5db833
+/home/sujan/Documents/read2lead/.git/objects/58/d8b1fe6a2e529241244f128c0d261043f66cd3
+/home/sujan/Documents/read2lead/.git/objects/58/72d39a9d962960d6e544c8489dea2a5d184afc
+/home/sujan/Documents/read2lead/.git/objects/52/9dc793797d58e0d4f8c6aa93773fb6826dce3d
+/home/sujan/Documents/read2lead/.git/objects/52/e064d455f62b3b1aa1a2a8546a9044ac1c4b82
+/home/sujan/Documents/read2lead/.git/objects/16/7301578df29b84ec6deed5cc59c0b28e0d2ff9
+/home/sujan/Documents/read2lead/.git/objects/16/8d2b5efd534d63ed5725dd6d41c9f7360615a3
+/home/sujan/Documents/read2lead/.git/objects/43/582aa6b4bc30faaac92e9d72ebdc99565d4622
+/home/sujan/Documents/read2lead/.git/objects/43/26db06effaed152e37ed8383e8b111f170819e
+/home/sujan/Documents/read2lead/.git/objects/76/2767672f0cca13ca98d5b51e84ac90dc725051
+/home/sujan/Documents/read2lead/.git/objects/76/8830135092a1379f78e6807562069ce07a8e6f
+/home/sujan/Documents/read2lead/.git/objects/c9/fa5e3498dc3c00a4f8f37e81c4458b37468fd6
+/home/sujan/Documents/read2lead/.git/objects/c9/a9db1397170185d31111ac77738328254b30b1
+/home/sujan/Documents/read2lead/.git/objects/3f/f0d0f860b7be1d6ae3086271d2006f4e6be35c
+/home/sujan/Documents/read2lead/.git/objects/3f/d16148604049654007fab35e039b43e0c23a53
+/home/sujan/Documents/read2lead/.git/objects/86/c1d0657b9dc38b62f6416a0e602df206bb9853
+/home/sujan/Documents/read2lead/.git/objects/86/2c78e1958c90828aab684337329efad59ab150
+/home/sujan/Documents/read2lead/.git/objects/fc/3a71c3b6db246c6d81d310ac05996bfbd0cd8b
+/home/sujan/Documents/read2lead/.git/objects/fc/7f96e9d10f1b027cde0fcbfbe5aaa3f985f3e2
+/home/sujan/Documents/read2lead/.git/objects/0e/6d7ca68730b77acae17b2e3a42905fcdb54bf1
+/home/sujan/Documents/read2lead/.git/objects/0e/83c85fe8e4d7fb3c83be6f7d4e28291be9c816
+/home/sujan/Documents/read2lead/.git/objects/01/ef09da889703352fb523a15e76f1c0696adbc6
+/home/sujan/Documents/read2lead/.git/objects/d2/aaefdb67c4ba55f72df71e0d2b8f94317e3ec9
+/home/sujan/Documents/read2lead/.git/objects/6d/dd7280a705a094303b55f4eaef014c6686ad60
+/home/sujan/Documents/read2lead/.git/objects/6d/075cef2d392db30b5ab65266b8640ad8a5ca0b
+/home/sujan/Documents/read2lead/.git/objects/b6/7d43e33751f4b2bc9105ac1317c712f647a85d
+/home/sujan/Documents/read2lead/.git/objects/5c/7311d7f1b8d227ccb467f190998c72bc7e1ef9
+/home/sujan/Documents/read2lead/.git/objects/5c/5fd02ec4ee34bc29c9460ee5efee0028bca72d
+/home/sujan/Documents/read2lead/.git/objects/5c/df8907cb6889d699cd16216875972f00642caa
+/home/sujan/Documents/read2lead/.git/objects/85/073d7eff4a822b35a295d391cb82b5764ab483
+/home/sujan/Documents/read2lead/.git/objects/85/61717c3cd40c403dd69ef78454aaf8cd4d094d
+/home/sujan/Documents/read2lead/.git/objects/50/4a06ceadc0b1c52ae877ce3302dcf3a71b24d2
+/home/sujan/Documents/read2lead/.git/objects/50/e359cc40502b561d5f55dee7638137bc81932a
+/home/sujan/Documents/read2lead/.git/objects/96/78ebd406a5c405ba334ca51fb5d6518ca94803
+/home/sujan/Documents/read2lead/.git/objects/98/105244a6aa826b8a9672772634e5e7e65b40c7
+/home/sujan/Documents/read2lead/.git/objects/bc/05bfa0266bc524643134793864c69ee95f2665
+/home/sujan/Documents/read2lead/.git/objects/bc/6cc0cd9ca2e81671d4932edf0e5ac839befbed
+/home/sujan/Documents/read2lead/.git/objects/08/cb00c9d78e3f6d1f55cddf0156094d144442e6
+/home/sujan/Documents/read2lead/.git/objects/08/f145abdb81b335f422127182329f781c0c8b7e
+/home/sujan/Documents/read2lead/.git/objects/e7/3831f687b8ccb130e7faba1458370bd808481c
+/home/sujan/Documents/read2lead/.git/objects/e7/b5bce8a485c3941a7cb5007c42e9c64b399f44
+/home/sujan/Documents/read2lead/.git/objects/e7/1c46fc2d438208c95c22ce6aa76c967a369304
+/home/sujan/Documents/read2lead/.git/objects/ef/024a0185ade9cbf9616ae88fc175f39cf0a4ca
+/home/sujan/Documents/read2lead/.git/objects/db/be23f674f7df1e78fdde4cec1ea1f00b18c095
+/home/sujan/Documents/read2lead/.git/objects/db/483bfeca6a57daea96a9fe5b5efd15ce0df44f
+/home/sujan/Documents/read2lead/.git/objects/db/720fb74f22a546b04ebc5dc0383238e56f1bb9
+/home/sujan/Documents/read2lead/.git/objects/db/4c0eec5b9b1c8f8782c28190578a555433ff11
+/home/sujan/Documents/read2lead/.git/objects/fa/9067a6e89fba17012075c2e720680dcfd9e6e6
+/home/sujan/Documents/read2lead/.git/objects/fa/66051e904c78ab8706e577cf85d33345548f02
+/home/sujan/Documents/read2lead/.git/objects/fa/b5e2350d37200311eecc81d31a723e8904d0aa
+/home/sujan/Documents/read2lead/.git/objects/fa/2153a930857c64ce2a95e692932d23fde95a7f
+/home/sujan/Documents/read2lead/.git/objects/ed/2b53c8658b8ecf7d753974b3fbd947c6cba4f3
+/home/sujan/Documents/read2lead/.git/objects/32/3a7607182add352c6ade94844cf66859f8b2fe
+/home/sujan/Documents/read2lead/.git/objects/32/5cf43df48a6d49a774366ec88e02d79b4026c0
+/home/sujan/Documents/read2lead/.git/objects/32/aac82bd5c7e3cd8efa8ec99d468a6ab4e3d468
+/home/sujan/Documents/read2lead/.git/objects/32/df76d45a78a805eb97beefa06f2092cc530938
+/home/sujan/Documents/read2lead/.git/objects/25/7e4d6e2a2fad3776c202c6c4ca8e97cc07c986
+/home/sujan/Documents/read2lead/.git/objects/13/605172a0541737b5788546b1fce2c6dc1340db
+/home/sujan/Documents/read2lead/.git/objects/78/4207d4c3c4b0810d27ab013893df0b1df9297d
+/home/sujan/Documents/read2lead/.git/objects/78/7c765025ca532b0e1c616ae3b2336611ea224c
+/home/sujan/Documents/read2lead/.git/objects/bd/d3b2f3dc55c2fb494ba23f3019fcaa54aa8488
+/home/sujan/Documents/read2lead/.git/objects/bd/1f3621c59eaeb04b200ea30abedec6ff016cf4
+/home/sujan/Documents/read2lead/.git/objects/b2/751115e8947e10cb80d23388e5e4791018da1b
+/home/sujan/Documents/read2lead/.git/objects/b2/efe08512d4fae76272fe4ae193e7b1119f1b43
+/home/sujan/Documents/read2lead/.git/objects/b2/3b87c817ddea9a5133ebeeece954f8605bb0b9
+/home/sujan/Documents/read2lead/.git/objects/d8/feffccb946d4ef51c603d33c5ce247956b3c4a
+/home/sujan/Documents/read2lead/.git/objects/d8/91dbb981a4b9a5d9262ed91de19e1701f8bc12
+/home/sujan/Documents/read2lead/.git/objects/d8/2e15d9d8bb0f98aec9313ff43ae23a5db438c2
+/home/sujan/Documents/read2lead/.git/objects/d8/67cc5875cefc4923ff6afa61d75113079ed6a1
+/home/sujan/Documents/read2lead/.git/objects/f3/51e2015286e3333c4b1990b7ee8ccb467f39ae
+/home/sujan/Documents/read2lead/.git/objects/1b/188300943b1bae1101c69d7ec1a280d7cafda8
+/home/sujan/Documents/read2lead/.git/objects/1b/3ac06d8cc8c3f868d4df28910009c8647fc7db
+/home/sujan/Documents/read2lead/.git/objects/ea/b20fe61912601c062563c218d2d73b9a3050b2
+/home/sujan/Documents/read2lead/.git/objects/ea/0b2fbcd680b832853db0042c7e7efefbb896fc
+/home/sujan/Documents/read2lead/.git/objects/ea/d2f6b7cd796525dc79d93ebc0e7ad9c439a10f
+/home/sujan/Documents/read2lead/.git/objects/ea/606cd6100060107254e66935e8747cdd02c403
+/home/sujan/Documents/read2lead/.git/objects/ea/10fbb8e797af1eee9af777aa87a54f4099c1cc
+/home/sujan/Documents/read2lead/.git/objects/60/bb5081fa76dd6786b43918c3c5434a02ac04ff
+/home/sujan/Documents/read2lead/.git/objects/60/efd6d52ed9b168a0bb01fbe0ff0b64f9a794b4
+/home/sujan/Documents/read2lead/.git/objects/60/642347a9bda8cfbfb6f33deac36176829ba975
+/home/sujan/Documents/read2lead/.git/objects/60/ea06ee69d56ddb33e3584fddf337d2b3ddb9b2
+/home/sujan/Documents/read2lead/.git/objects/60/8dd3c12cfd6d8fb5b2f1cddd4a20746dda340b
+/home/sujan/Documents/read2lead/.git/objects/2c/3b2dba12f4dbbe5f17366394c2e8952240ca64
+/home/sujan/Documents/read2lead/.git/objects/74/f44fee46c27bc58f39879a0ae0e7ec684ab1b3
+/home/sujan/Documents/read2lead/.git/objects/74/5cf5bd1fbc6fa4e6f69888964446c8db6bfaae
+/home/sujan/Documents/read2lead/.git/objects/74/0b60c805a99ee0877dd0c35190ec67ca780361
+/home/sujan/Documents/read2lead/.git/objects/74/3acf14bbc1f8fc31eb5c942bef5cfe8d76402f
+/home/sujan/Documents/read2lead/.git/objects/8c/c0d8434762b1b575daffef7f9bc8487984a811
+/home/sujan/Documents/read2lead/.git/objects/8c/ef1cc68111e63847d053ba1d149cbd008d96fc
+/home/sujan/Documents/read2lead/.git/objects/8c/81f4593acd1a1e849ab657285d09a20696b366
+/home/sujan/Documents/read2lead/.git/objects/c4/12e92d8b77c7efb4c61a54fff574895f3e986b
+/home/sujan/Documents/read2lead/.git/objects/3b/e7c267718b2c9e608ff485eb4ba306348c307b
+/home/sujan/Documents/read2lead/.git/objects/0b/4c97a987d09355c86e7fbb5248a70a3c8a7fcf
+/home/sujan/Documents/read2lead/.git/objects/0b/e2f503a0dd73ad80bc002cf894451d2cc9d5d4
+/home/sujan/Documents/read2lead/.git/objects/ec/9322336f3fe22dfb9d54e95cb06dc44b0dd9fc
+/home/sujan/Documents/read2lead/.git/objects/89/ce5dadafb105a0ce63a968d1e03f13a65a95a1
+/home/sujan/Documents/read2lead/.git/objects/pack/pack-ed4a4f44941bb595e63f927315914ce034d1610f.pack
+/home/sujan/Documents/read2lead/.git/objects/pack/pack-ed4a4f44941bb595e63f927315914ce034d1610f.idx
+/home/sujan/Documents/read2lead/.git/objects/d3/554422cac1dd9276f99e59a22a6365b3135631
+/home/sujan/Documents/read2lead/.git/objects/d3/5d8995e725e216ee98d0b48e98db01dcb8dacf
+/home/sujan/Documents/read2lead/.git/objects/a7/0fc0fceb467f8728db30cef2d454888adf624b
+/home/sujan/Documents/read2lead/.git/objects/15/3112750d93843e7644a04fd4d95b49a5dc2148
+/home/sujan/Documents/read2lead/.git/objects/ee/89113c5c68bfcbf65e4aef1b6d2ffba6357b4c
+/home/sujan/Documents/read2lead/.git/objects/38/8e81b11e59700ba03157e0170ea37fd029f3a9
+/home/sujan/Documents/read2lead/.git/objects/45/7bc11bf99b9d99841914c5d5d22c806a7f3d8e
+/home/sujan/Documents/read2lead/.git/objects/63/72953004008278e63711e672c08db12ddc0d3e
+/home/sujan/Documents/read2lead/.git/objects/63/fe37526c20b660ef5c1f153127b54836f8c9c2
+/home/sujan/Documents/read2lead/.git/objects/63/6d5fba920f2ae5097c73a7526c8723a29a7be2
+/home/sujan/Documents/read2lead/.git/objects/63/43d13e6cd12d314bbbc6fa1babd9d7f0b1353a
+/home/sujan/Documents/read2lead/.git/objects/1f/2bc7718c05b0ec3d724f79bde8eff4804c91e2
+/home/sujan/Documents/read2lead/.git/objects/27/1a410a2b305afd4ca0ccf824fbec82dc105f5d
+/home/sujan/Documents/read2lead/.git/objects/27/ca40bca41fe012b73657aa92bd29fda3b59958
+/home/sujan/Documents/read2lead/.git/objects/27/158ff274df0823a58625330a383ba0cf70b7d3
+/home/sujan/Documents/read2lead/.git/objects/92/65fe45b9e9b4e909c23e7bf0181b05a4919438
+/home/sujan/Documents/read2lead/.git/objects/92/811047f08ecd735ca15f315e1b816674933d81
+/home/sujan/Documents/read2lead/.git/objects/3d/a5a725a561238f19929fad95f4f4d2f377c36d
+/home/sujan/Documents/read2lead/.git/objects/3d/b3275f6f9fb765010f08dd75e5b147f135c6eb
+/home/sujan/Documents/read2lead/.git/objects/94/8088097af28fd0d5af4431ee4f3b502111e8be
+/home/sujan/Documents/read2lead/.git/objects/94/72ced8ef36fb97203b2cf84d630d707b0c4064
+/home/sujan/Documents/read2lead/.git/objects/6c/56cd96ba7550e785f032f210929b55051809df
+/home/sujan/Documents/read2lead/.git/objects/6c/dff22b344624f6ec0a84ee7656162019cb391d
+/home/sujan/Documents/read2lead/.git/objects/3e/3f7584bb64c14302146f9343a7d946a01defb9
+/home/sujan/Documents/read2lead/.git/objects/73/34a0c010f4c4b4872d3c2677779967a5109c04
+/home/sujan/Documents/read2lead/.git/objects/de/d0265a738770cbe54c5a066afc4ab2261e9352
+/home/sujan/Documents/read2lead/.git/objects/de/5b98a3961d6ceed94d4d5b3e0cc7f50a7abbfc
+/home/sujan/Documents/read2lead/.git/objects/de/1c9499d662e7a4e0bfdf3093e00b23a115337f
+/home/sujan/Documents/read2lead/.git/objects/39/db387fe4220100bc8963c98bc6ed2d8bb4f905
+/home/sujan/Documents/read2lead/.git/objects/39/00e5be466ae0565c743900c4fcb3b15be54903
+/home/sujan/Documents/read2lead/.git/objects/7d/dfa4399ee2097f04b992592e686934f5750776
+/home/sujan/Documents/read2lead/.git/objects/7d/f2bcd7257e2fd6b941757a3cf89a7243dbb6e8
+/home/sujan/Documents/read2lead/.git/objects/66/11b43ad6d6c3cc966a28bd53a445900025760a
+/home/sujan/Documents/read2lead/.git/objects/c2/058c10aa798706374931cadc3543707a58b557
+/home/sujan/Documents/read2lead/.git/objects/c2/6d4d15e1d36acdd72f0424e47f19f1c52ff1ca
+/home/sujan/Documents/read2lead/.git/objects/c2/74e5a9f89c80b9ce31a7f80bf008e16dccc3d4
+/home/sujan/Documents/read2lead/.git/objects/a0/2b69162ccc1a001ba8747e985e5d3c57c3835f
+/home/sujan/Documents/read2lead/.git/objects/a0/2338428cdc4d40604062271041271ab4b4bfe3
+/home/sujan/Documents/read2lead/.git/objects/a0/251ad96e1a52ea31e882bb55ec2bd6fba52533
+/home/sujan/Documents/read2lead/.git/objects/a0/3d17ce28741d778940ee4e248632c3a9830497
+/home/sujan/Documents/read2lead/.git/objects/ce/ddbf5418bb6cc930291c4afcd2979abcbc8658
+/home/sujan/Documents/read2lead/.git/objects/ce/9ce6eff8791b8188e95231ec63bfc45d1cc7f5
+/home/sujan/Documents/read2lead/.git/objects/ad/da7dfebdd6278e96cd339802e9e3f7ccb5f9dd
+/home/sujan/Documents/read2lead/.git/objects/11/6f88800989d3dc175277bbb21047042fb39bd6
+/home/sujan/Documents/read2lead/.git/objects/b8/be7f3f3587f3ebe89b61fc79c91fdfa0b93506
+/home/sujan/Documents/read2lead/.git/objects/7f/d4f366ee8b745327ad66f275ada3c42c00ca6e
+/home/sujan/Documents/read2lead/.git/objects/7f/745a174f79fe04c1c7caf6230602c97959ebe6
+/home/sujan/Documents/read2lead/.git/objects/7f/7ab65b8a956f50b6d8f93b355adfe4e6900279
+/home/sujan/Documents/read2lead/.git/objects/28/ef66f023e9604bfa7e9a402440d425268cd71a
+/home/sujan/Documents/read2lead/.git/objects/28/b097c0f03742e9966e23e55dc101cabfe89ebf
+/home/sujan/Documents/read2lead/.git/objects/4a/bfd1c52a7b0724c7836d61260410306b1bddef
+/home/sujan/Documents/read2lead/.git/objects/4a/75062fb23c9efeb0ba01839178aa9f955cb391
+/home/sujan/Documents/read2lead/.git/objects/bf/926cfbb522328cef126c7c4e52d03b6947e894
+/home/sujan/Documents/read2lead/.git/objects/bf/c5c5230a166803887834a8ce586a30a0ae70da
+/home/sujan/Documents/read2lead/.git/objects/8b/ad30095d42c2702d7ea4ee8b94e9ac67a99310
+/home/sujan/Documents/read2lead/.git/objects/e3/f32c4d9dbbe36a2d335949182343847d606ac6
+/home/sujan/Documents/read2lead/.git/objects/a1/cbde337b9619ca2c7473010ba0af8faec3c942
+/home/sujan/Documents/read2lead/.git/objects/18/bdf6f77d67059113f723a957d8f318d63d5059
+/home/sujan/Documents/read2lead/.git/objects/49/16a60b62e6e4d3c6c843be58bd57569c739f80
+/home/sujan/Documents/read2lead/.git/objects/7e/941773c3764fa0c01816824da3dc9abec8cd85
+/home/sujan/Documents/read2lead/.git/objects/21/4eb90c9074273ecd46b49870a4be468f4592b4
+/home/sujan/Documents/read2lead/.git/objects/14/1383766966f1f0b9c8cc241cbce6262a6920a5
+/home/sujan/Documents/read2lead/.git/objects/14/5bd4e7091fc53bb4d6e6b25158579a17076f68
+/home/sujan/Documents/read2lead/.git/objects/1c/16ab393781408c285a3377b71eec41cc0a84ee
+/home/sujan/Documents/read2lead/.git/objects/1c/c5da9007b5d7c7194b098c7a181fea3beb8893
+/home/sujan/Documents/read2lead/.git/objects/1c/5aea8ecf946563f120aa81922a9fa0cb351e20
+/home/sujan/Documents/read2lead/.git/objects/1c/721d559006f33b0525614e50e000677da2aefb
+/home/sujan/Documents/read2lead/.git/objects/1c/e7e3b2ac12b9fbad6a46f22ac700350eb39116
+/home/sujan/Documents/read2lead/.git/objects/1c/aaaf3d22b778992f940a583ed45a60cb21d1a4
+/home/sujan/Documents/read2lead/.git/objects/ab/95faf91f9eec05ecb8cf583e0d3b70673decac
+/home/sujan/Documents/read2lead/.git/objects/ab/bbeb9aaf4db6a521667444832d10ba18a1875b
+/home/sujan/Documents/read2lead/.git/objects/55/befcf228412d3b1c1fb0051adeb25cce426a0e
+/home/sujan/Documents/read2lead/.git/objects/80/7e76d40aeb483a261447f8e3a2bf33364d1191
+/home/sujan/Documents/read2lead/.git/objects/80/9b372f1f9408e2ab1fdb69660b7817bf9182c4
+/home/sujan/Documents/read2lead/.git/objects/80/1667c4c50da6a1b2be2c4268d6401c056a4497
+/home/sujan/Documents/read2lead/.git/objects/80/ec6ebf2ba255352d8325021c64d3dffb7a43db
+/home/sujan/Documents/read2lead/.git/objects/5d/1d3ae40057f61ba65b23b871b67f5a85cbd12c
+/home/sujan/Documents/read2lead/.git/objects/5d/ecbcb6c89e3e018c7e8f1d0e6e7c8e62b1c79a
+/home/sujan/Documents/read2lead/.git/objects/6a/f2456c2855ec866bb1aea5b22c03f0dc2db6a9
+/home/sujan/Documents/read2lead/.git/objects/6a/b4d16be3a55cf535cbf336dd56d302e204f396
+/home/sujan/Documents/read2lead/.git/objects/c0/e26e52b69664031397f42ac5c74fe254948e0b
+/home/sujan/Documents/read2lead/.git/objects/c0/b98fe78ea54d8b0bd6b7576cbebfa732c35e43
+/home/sujan/Documents/read2lead/.git/objects/d4/58e4256d6817718ef17a8706e3673e6a57c6ed
+/home/sujan/Documents/read2lead/.git/objects/d4/ce8b677697d43045ca6a8bcffd94e691bf0ecd
+/home/sujan/Documents/read2lead/.git/objects/b9/5374098b0786132317012efb7dacd9a164af0c
+/home/sujan/Documents/read2lead/.git/objects/b9/eb8ccfba2573cc2f92af2d0b85b4c2b26d2b4b
+/home/sujan/Documents/read2lead/.git/objects/56/84ef6760de01c998e1caef73d5224951ee5b02
+/home/sujan/Documents/read2lead/.git/objects/56/d6fe5211c596240da348b1deb7ba0480788b64
+/home/sujan/Documents/read2lead/.git/objects/23/8997531513447b9858831ea91d378124e3d1f8
+/home/sujan/Documents/read2lead/.git/objects/79/c7707d5195ca0ac6d0796f6f94339586b311bc
+/home/sujan/Documents/read2lead/.git/objects/93/8ca9b06c0c79a988c09ebecc57c4f2cafcfba6
+/home/sujan/Documents/read2lead/.git/objects/93/c682fdfb8dfe724cef2e25601957f53acdc0eb
+/home/sujan/Documents/read2lead/.git/objects/8a/7d1647e3a8f81c7e1ed11b59784e2fede0adaa
+/home/sujan/Documents/read2lead/.git/objects/41/8794e76d65f03b3965017855ec7a31b5df3eba
+/home/sujan/Documents/read2lead/.git/objects/41/add70785f75a67b9ca6e38ee5880773d06d8d9
+/home/sujan/Documents/read2lead/.git/objects/4e/f4e684c142f713caf724732170482218343e5a
+/home/sujan/Documents/read2lead/.git/objects/88/37bb4a07b6fa79ad97bfd539e60f9fe2053f5e
+/home/sujan/Documents/read2lead/.git/objects/ca/4b76cfe3aa72c21ca2cc48497dfa99f64f1b1e
+/home/sujan/Documents/read2lead/.git/objects/ca/fec2b33f6d13f7851841ff76a7eac63ed9501b
+/home/sujan/Documents/read2lead/.git/objects/20/6505cf05691af2a8dc9d54dfac66dbac603f0c
+/home/sujan/Documents/read2lead/.git/objects/20/0601ebb9b313cd16879ba5216fd1726cd45462
+/home/sujan/Documents/read2lead/.git/objects/20/8420d12f32b4db92db550da0fc117aa1bdc6d7
+/home/sujan/Documents/read2lead/.git/objects/d0/aeba540837f5514b0d034a6047fd74adb30e24
+/home/sujan/Documents/read2lead/.git/objects/d0/dc032e190acf022bb91f599515657898b789e4
+/home/sujan/Documents/read2lead/.git/objects/d0/b46edeb8efa0556b5be97ff074ba3c7be9324e
+/home/sujan/Documents/read2lead/.git/objects/64/35a6377e61a67bfc204b4035c118d5316d9ea2
+/home/sujan/Documents/read2lead/.git/objects/64/0dcb6f442882e390446d6448ed889aa462157d
+/home/sujan/Documents/read2lead/.git/objects/64/29bae60fc9510bbba0a6f2c2d3b2a3e3796f1a
+/home/sujan/Documents/read2lead/.git/objects/64/3de7075931e3820a11234c0c20455bd0c177d4
+/home/sujan/Documents/read2lead/.git/objects/51/10feb52983d72fd1c20904c087e4360b845c19
+/home/sujan/Documents/read2lead/.git/objects/c7/29cc6dc345449da4826816e7a58bcdba0eafc5
+/home/sujan/Documents/read2lead/.git/objects/c7/b5e269a217647601a7d9f815fc1d2d293a5f7d
+/home/sujan/Documents/read2lead/.git/objects/06/180459b95d7703ed82c778ab84ad8ac3b185c2
+/home/sujan/Documents/read2lead/.git/objects/06/72b0d9a29ade9167aaaab2dfcb7ab58c4d916c
+/home/sujan/Documents/read2lead/.git/objects/09/d762235e1c9488389adf8c3ca4cb19487ea24c
+/home/sujan/Documents/read2lead/.git/objects/c5/3836fbb79185379a5bff3c7736568d04a76ad1
+/home/sujan/Documents/read2lead/.git/objects/9f/ff66c262485c359dfc2ff2c04701f3ee36b728
+/home/sujan/Documents/read2lead/.git/objects/9f/8e334ccda6e86c3085f3b58dcdfe8b84bdab1b
+/home/sujan/Documents/read2lead/.git/objects/9f/55f90a91cec5cb4d8ecffc7eb70adf939865e6
+/home/sujan/Documents/read2lead/.git/objects/77/29b525654f9ff3291dc385647df2bda320eaad
+/home/sujan/Documents/read2lead/.git/objects/68/f158c3ddf62ff82be57f3cf38daf1201b7f64a
+/home/sujan/Documents/read2lead/.git/objects/5b/ee26cea980f1e1da22dc46c84911db520709e9
+/home/sujan/Documents/read2lead/.git/objects/5b/74aa7a67f28294c8fa02bab9e783838609313d
+/home/sujan/Documents/read2lead/.git/objects/b5/73b44420d6913a5cf2e99f93ece520c2fbd785
+/home/sujan/Documents/read2lead/.git/objects/f7/ca50ba6d2730965f102cb543f716148581f147
+/home/sujan/Documents/read2lead/.git/objects/f7/f55c58a903633bd4b1d09faf788b09846f0d3a
+/home/sujan/Documents/read2lead/.git/objects/f7/e4116b210d607fc59fffe2649f719ebb1f91a4
+/home/sujan/Documents/read2lead/.git/objects/f7/0e71ab45e57544961e511b30eaaf7a90770779
+/home/sujan/Documents/read2lead/.git/objects/a8/131bc77e9f13b3bf473bcaeae114c62921c8d5
+/home/sujan/Documents/read2lead/.git/objects/a8/c7a2ff0c80245076d010dd13a9a4a76e9f0fee
+/home/sujan/Documents/read2lead/.git/objects/a8/df8a072feb579fa4ab38a04ffc58d3cded4d40
+/home/sujan/Documents/read2lead/.git/objects/9b/d94bf31c712bf52616aa4d745989d22a1e9a03
+/home/sujan/Documents/read2lead/.git/objects/75/c144f6257618308eccf6bc2697fb220b4f2337
+/home/sujan/Documents/read2lead/.git/objects/75/34359b51e4451d546dcff9637e4bf66d840442
+/home/sujan/Documents/read2lead/.git/objects/75/72e7080cb7b545bdd295ef42901029a114f3ea
+/home/sujan/Documents/read2lead/.git/objects/99/1c72701fbd174832b677a2aeeaad8b69b571ff
+/home/sujan/Documents/read2lead/.git/objects/99/5967e060c5dc3803ac30a94b678439eb46dab1
+/home/sujan/Documents/read2lead/.git/objects/f2/d93b021ba44d491ad5a3879d9ef62e51affcab
+/home/sujan/Documents/read2lead/.git/objects/f2/08f76331d491f69cb6546b5132279021c9dc4e
+/home/sujan/Documents/read2lead/.git/objects/91/20ebe0e6262a8d5391335616bb7b10069fa7a6
+/home/sujan/Documents/read2lead/.git/objects/91/39468ad0261732e1ab07c85d5f96c3f5496e5b
+/home/sujan/Documents/read2lead/.git/objects/e5/885e084f74fd1e8b32a6d6d283fb0a52e32040
+/home/sujan/Documents/read2lead/.git/objects/44/9c7134313ac2907e604caa764309e0f069e343
+/home/sujan/Documents/read2lead/.git/objects/44/a159a9f2a35d3f0b3dbb5f9529a09223d589f9
+/home/sujan/Documents/read2lead/.git/objects/44/b4308ba629c39174ecccbf4ac8e305970c0e49
+/home/sujan/Documents/read2lead/.git/objects/61/438c59481ecb59ad741b2d0dec0fe532edd1df
+/home/sujan/Documents/read2lead/.git/objects/61/43e44f9691320173763107748e356ef65561d8
+/home/sujan/Documents/read2lead/.git/objects/3c/f556578d6e73f6bfa449c556a3cf969a365485
+/home/sujan/Documents/read2lead/.git/objects/3c/57b3fdab95566bbae2e3da09d6452414e8db9c
+/home/sujan/Documents/read2lead/.git/objects/3c/1cf2c3377102581a778e4931dda299d4da4ab6
+/home/sujan/Documents/read2lead/.git/objects/b4/bcd3a5257d13433a0a6fc913f7eab8507ff596
+/home/sujan/Documents/read2lead/.git/objects/31/cb458acffba07ba4de0e21cc5fe66cc48ea834
+/home/sujan/Documents/read2lead/.git/objects/31/8b97fdd663dc608a04ca6c9e1bdab970e47e0c
+/home/sujan/Documents/read2lead/.git/objects/2f/bf3a6356fba69cfd6817d04b7a6e8f42ea0251
+/home/sujan/Documents/read2lead/.git/objects/2f/64496346fbce1add8ec1eeb2dd4ce6daa2c5dd
+/home/sujan/Documents/read2lead/.git/objects/2f/f6f824643a5930a5b0d6a1d0e17424d5d9c3f1
+/home/sujan/Documents/read2lead/.git/objects/c1/017dd05bb4ec009611e82bf3e2c43923998fec
+/home/sujan/Documents/read2lead/.git/objects/c1/1833cfb576cf235e4d70aa28a3989f1e0fe2b4
+/home/sujan/Documents/read2lead/.git/objects/f9/f5a8893ebd8fd012f0dbcb261f8f43ebeb296f
+/home/sujan/Documents/read2lead/.git/objects/f9/348eabab0e722b0f605048e2af043085809b8d
+/home/sujan/Documents/read2lead/.git/objects/e4/65ffa1024d0c3dc548b7048b4a43f4b5297090
+/home/sujan/Documents/read2lead/.git/objects/57/adf1fe0566ad8ab19f0c1f2a21078450abdd92
+/home/sujan/Documents/read2lead/.git/objects/cf/6abd753313668b0f75020db6c35145a99291a9
+/home/sujan/Documents/read2lead/.git/objects/cf/1672f50f3dfdd61c1069b6c6ce56a1ed834284
+/home/sujan/Documents/read2lead/.git/objects/cf/b40906fcb712fc5c7e1e0e5745bc9fe055ac90
+/home/sujan/Documents/read2lead/.git/objects/cf/b3b3135bf714de3b6169725269e3cb501cc275
+/home/sujan/Documents/read2lead/.git/objects/cf/a1e744654a53a1ec2cfb8237d2aa295af378f6
+/home/sujan/Documents/read2lead/.git/objects/cf/3c1ccaf080c3331540b61f44248560c8f208cb
+/home/sujan/Documents/read2lead/.git/objects/36/95677013022f40bb52c7ad8c41c59618632463
+/home/sujan/Documents/read2lead/.git/objects/36/bdc25fe604874fd8c5e283a4453206f07fa82d
+/home/sujan/Documents/read2lead/.git/objects/36/95914320cb11b2306ffebc04944f63b45ec0e6
+/home/sujan/Documents/read2lead/.git/objects/e8/3df3dd1a79ec8ac66b065778a22c0f97e2ffc9
+/home/sujan/Documents/read2lead/.git/objects/a5/fce1a93b50feb89e86da5d0b7fa4f31c66b049
+/home/sujan/Documents/read2lead/.git/objects/a5/5139995c0879cb045a9cc22bff29e8e83156db
+/home/sujan/Documents/read2lead/.git/objects/a9/404092a2d225e03d711c1b8faee253831f7328
+/home/sujan/Documents/read2lead/.git/objects/a9/c0eb55ece22f2fbe00e0c341e7a29684ce3fac
+/home/sujan/Documents/read2lead/.git/objects/be/2d52e8cb2a3bba1cc79f88b9fbca4470dfa899
+/home/sujan/Documents/read2lead/.git/objects/be/6945e3ac604526cc83538efadc27320f4c5473
+/home/sujan/Documents/read2lead/.git/objects/47/2f552036f9f7b890b5d7f7413c080b3780c2c0
+/home/sujan/Documents/read2lead/.git/objects/47/fc214c12ab93edd9a1d6bf74e2c6972c96db1d
+/home/sujan/Documents/read2lead/.git/objects/53/559180f26b04698e1c6776610065450a706825
+/home/sujan/Documents/read2lead/.git/objects/53/1dbf6757562ce9dad91fad6274ba8cd4e932e6
+/home/sujan/Documents/read2lead/.git/objects/7c/bd4172d59df946c33fa1e6725e6f267483905c
+/home/sujan/Documents/read2lead/.git/objects/65/a280d98ca662fa034da6059cc314747b1cf060
+/home/sujan/Documents/read2lead/.git/objects/e1/d3d509c8f8d07eaa97611638f1f9f20286b5bc
+/home/sujan/Documents/read2lead/.git/objects/00/c124e13f2fe1c487ebb1a1cbbcee1503dd9d9b
+/home/sujan/Documents/read2lead/.git/objects/00/474a6b63f9a39c07f07e0a94c411dd3e5f73e8
+/home/sujan/Documents/read2lead/.git/objects/00/a37981aed8d8a5053dc5743b2bea413258dbe8
+/home/sujan/Documents/read2lead/.git/objects/00/a831f89e4f4229bc1c0b6ff4a36279ddf8fb02
+/home/sujan/Documents/read2lead/.git/objects/9e/2223d5ada37c2b6d23c177589dd6b81efe9b37
+/home/sujan/Documents/read2lead/.git/objects/9e/0d4476c28fb92502a9bace983bad842d739808
+/home/sujan/Documents/read2lead/.git/objects/67/a83d53f654f1844844f11179358bcdb4737472
+/home/sujan/Documents/read2lead/.git/objects/67/2c3f10a89946cd2ae373323f9374ea7828bd77
+/home/sujan/Documents/read2lead/.git/objects/67/d79c9ba00da1e34a1e909db9a60943bb20f898
+/home/sujan/Documents/read2lead/.git/objects/1a/0ef2cd5344bcabae9daf7127eb5e5f0347dd0b
+/home/sujan/Documents/read2lead/.git/objects/34/241fe036dddda0b4229ffd8a16e8cc505bcc71
+/home/sujan/Documents/read2lead/.git/objects/8f/9e79358effba497406be4404bd8a22e189011f
+/home/sujan/Documents/read2lead/.git/objects/d6/ea0d8aea58135941581b17ed858462868237b3
+/home/sujan/Documents/read2lead/.git/objects/d6/5be77e5c565514fd2a62570b775cea20129a84
+/home/sujan/Documents/read2lead/.git/objects/29/802da4646b3c07f924ba64b3e2d8c937505518
+/home/sujan/Documents/read2lead/.git/objects/29/ef4d7167c05a158901208b4f840c13511dabeb
+/home/sujan/Documents/read2lead/.git/objects/f0/d1fdf05b37ef8f778614bc59470897cc22eba2
+/home/sujan/Documents/read2lead/.git/objects/d5/044b964b2c06b0456cb707d7c281bd0e5706a1
+/home/sujan/Documents/read2lead/.git/objects/d5/d6c4a59defb7325f5391660d987d7451e36b6d
+/home/sujan/Documents/read2lead/.git/objects/d5/c63b4a7666db3be6a1e29e4ba83b7eadf81b20
+/home/sujan/Documents/read2lead/.git/objects/d5/813f243e751823e99ba45a99e00d50948a70d4
+/home/sujan/Documents/read2lead/.git/objects/d5/f92841caf875c58084243b46807475181ba085
+/home/sujan/Documents/read2lead/.git/objects/dd/509734654946260886b03c368311e0e9c5d0d5
+/home/sujan/Documents/read2lead/.git/objects/b1/1e306752f3a15249187fee3af93192f83104fe
+/home/sujan/Documents/read2lead/.git/objects/b1/5613c3456bf531ee818acd1210784493611489
+/home/sujan/Documents/read2lead/.git/objects/b1/d12c797eefe3b9ec77ccfedc0eef67213a9e2f
+/home/sujan/Documents/read2lead/.git/objects/b1/2aacc806a4c3edb15b85a0daea327631043b47
+/home/sujan/Documents/read2lead/.git/objects/b1/07945708a72afa604473b9e38ec726aaef04c6
+/home/sujan/Documents/read2lead/.git/objects/e2/1c8e1ca05684ce89aa33f92d3db9775c561761
+/home/sujan/Documents/read2lead/.git/objects/e2/fce347a54b06c14b4b2edefd55560fc719dc88
+/home/sujan/Documents/read2lead/.git/objects/2d/de719fab357ec5e0335733ba01061091cd626b
+/home/sujan/Documents/read2lead/.git/objects/7a/2fc7e0d1f5c5fc4bb6e1a388f7057735703ae3
+/home/sujan/Documents/read2lead/.git/objects/7a/fe8e524d92b0f827e961fcb8c59a4dd1d498a5
+/home/sujan/Documents/read2lead/.git/objects/35/16e0082eba24766990546df4ee0435fff474f1
+/home/sujan/Documents/read2lead/.git/objects/35/eeff036bae0243c1108ed34b510a1a4136b723
+/home/sujan/Documents/read2lead/.git/objects/35/f59f4360e6bfa61b545d1ad46fca019c54f205
+/home/sujan/Documents/read2lead/.git/objects/6b/36bf6af5a424623061ded7c1fced8fdb1321da
+/home/sujan/Documents/read2lead/.git/objects/b3/a3720f3423ec304046c1cc152caeaad0e9129e
+/home/sujan/Documents/read2lead/.git/objects/f6/91f54e315e5ae7642e81f4bb703aef1bd77e2d
+/home/sujan/Documents/read2lead/.git/objects/f6/9a003920d783eec5760cb9a1531e3dec8ef4d1
+/home/sujan/Documents/read2lead/.git/objects/f6/c26cf06f2b5eb77e31e43faba4bd22d5206d9d
+/home/sujan/Documents/read2lead/.git/objects/4b/5b251cf33153c3f304c244f2cabcfaa3c2d0e1
+/home/sujan/Documents/read2lead/.git/objects/4b/d24a55ec6333a31136892199bc0015a3cf540a
+/home/sujan/Documents/read2lead/.git/objects/10/bd7e8c50ae65e128d039f02765deb9d196a175
+/home/sujan/Documents/read2lead/.git/objects/10/9a69403a7eba1ce8be9f727bbc8beff204d68e
+/home/sujan/Documents/read2lead/.git/objects/10/21589651d90b8cddbcbb7ec890f02c8cf28140
+/home/sujan/Documents/read2lead/.git/objects/c8/42c887685d92316c27f64c84b77d98d18332b2
+/home/sujan/Documents/read2lead/.git/objects/0f/ad6a047a11df53d6148cf2046ef0980c34993b
+/home/sujan/Documents/read2lead/.git/objects/0f/e3288ad8081242fb394cbabbfe10777dc52f6c
+/home/sujan/Documents/read2lead/.git/objects/0f/506efde61f9d6b0acb1c04cc0d3ba2dbf50208
+/home/sujan/Documents/read2lead/.git/objects/0f/a1abaa08d4efe5020a1e5dc0a8b4bd9e2788cf
+/home/sujan/Documents/read2lead/.git/objects/0f/057ca13e4ff0a8f149f9f64635b1fadf73f8d0
+/home/sujan/Documents/read2lead/.git/objects/0f/92cc5dd54a588df45affe0a166880cd8ca06e9
+/home/sujan/Documents/read2lead/.git/objects/9d/216019f83c8d5dc2304174c178cc6175c7d837
+/home/sujan/Documents/read2lead/.git/objects/9d/72ff1acc132886472b9590c6d655fa40f75226
+/home/sujan/Documents/read2lead/.git/objects/9d/b30c2592bd23522efc36f7c24a803acd5587f2
+/home/sujan/Documents/read2lead/.git/objects/9d/fab08455e9ca021123bd6470aa62dbb1773178
+/home/sujan/Documents/read2lead/.git/objects/59/0625fecce35ecdbda7b6d3ee8567af1db08fa8
+/home/sujan/Documents/read2lead/.git/objects/6f/0972cb106a921bddbfbcd265a6fd637d42b1ef
+/home/sujan/Documents/read2lead/.git/objects/3a/9bc884a894cb7473cd99942bc8de8c7d1beb51
+/home/sujan/Documents/read2lead/.git/objects/83/a10b1c3849828782bf8be6a865c9aef33a452a
+/home/sujan/Documents/read2lead/.git/objects/83/36e06658ceefe80f78375459b91a1f1f5afa03
+/home/sujan/Documents/read2lead/.git/objects/54/c2b142205c08051776a827ec159ac8f8bf6eb5
+/home/sujan/Documents/read2lead/.git/objects/54/48d0ee1b94a014a0cbe39bdf19c380ad4a0c53
+/home/sujan/Documents/read2lead/.git/objects/54/d18445bf106318708f1af528861a037ed6de11
+/home/sujan/Documents/read2lead/.git/objects/54/51f19200da80699d8668c1fff08dcea3d41cee
+/home/sujan/Documents/read2lead/.git/objects/24/be0b683aa5df927b73eafd7375d88ca27582de
+/home/sujan/Documents/read2lead/.git/objects/24/99df52847d736362aec9a986f8031fa4c74484
+/home/sujan/Documents/read2lead/.git/objects/24/68c34a55fac16bf42f9390619b6aa643084c2d
+/home/sujan/Documents/read2lead/.git/objects/22/75e3b9b3dafbcc2f8c57bd3ada828b9b973bf9
+/home/sujan/Documents/read2lead/.git/objects/b7/7adab9023fb088ae9ac11de55c4c52e47b70e4
+/home/sujan/Documents/read2lead/.git/objects/4d/e3bbaf1bcce3feba115c8fa40acf6cf5f0ff75
+/home/sujan/Documents/read2lead/.git/objects/4d/b0a9485f90ddb9b542f68ce57a3c449caf1b6c
+/home/sujan/Documents/read2lead/.git/objects/4d/d81e9c9bc1a5a07580dc224107531d72d43e22
+/home/sujan/Documents/read2lead/.git/objects/4d/1bd88d71a6e36af6a7c9b3172846b1a7c3dc69
+/home/sujan/Documents/read2lead/.git/objects/4d/120f13257c90776cfd044e9a279c42b7e4ae98
+/home/sujan/Documents/read2lead/.git/objects/2e/adea5b7b88391422576b7d3a0d49153071e856
+/home/sujan/Documents/read2lead/.git/objects/2e/e20a081b725d5ed542ed46937a5533a2f04172
+/home/sujan/Documents/read2lead/.git/objects/2e/3b98b2bf69a96c16b90d9ff4913085de233244
+/home/sujan/Documents/read2lead/.git/objects/2e/aaa8a117e0635a8d5aefded5de399c3096b0a3
+/home/sujan/Documents/read2lead/.git/objects/2e/4088c148a90f81f785ffdbca3c62b1f6ba0122
+/home/sujan/Documents/read2lead/.git/objects/fb/7bd090156a9086aa4379e0eff51686cee8c55b
+/home/sujan/Documents/read2lead/.git/logs/HEAD
+/home/sujan/Documents/read2lead/.git/logs/refs/remotes/origin/HEAD
+/home/sujan/Documents/read2lead/.git/logs/refs/remotes/origin/main
+/home/sujan/Documents/read2lead/.git/logs/refs/heads/main
+/home/sujan/Documents/read2lead/.git/index
+/home/sujan/Documents/read2lead/.git/HEAD
+/home/sujan/Documents/read2lead/.git/info/exclude
+/home/sujan/Documents/read2lead/.git/description
+/home/sujan/Documents/read2lead/.git/refs/remotes/origin/HEAD
+/home/sujan/Documents/read2lead/.git/refs/remotes/origin/main
+/home/sujan/Documents/read2lead/.git/refs/heads/main
+/home/sujan/Documents/read2lead/.git/COMMIT_EDITMSG
+/home/sujan/Documents/read2lead/.git/packed-refs
+/home/sujan/Documents/read2lead/.git/hooks/pre-merge-commit.sample
+/home/sujan/Documents/read2lead/.git/hooks/pre-receive.sample
+/home/sujan/Documents/read2lead/.git/hooks/post-update.sample
+/home/sujan/Documents/read2lead/.git/hooks/pre-commit.sample
+/home/sujan/Documents/read2lead/.git/hooks/commit-msg.sample
+/home/sujan/Documents/read2lead/.git/hooks/pre-push.sample
+/home/sujan/Documents/read2lead/.git/hooks/pre-applypatch.sample
+/home/sujan/Documents/read2lead/.git/hooks/pre-rebase.sample
+/home/sujan/Documents/read2lead/.git/hooks/prepare-commit-msg.sample
+/home/sujan/Documents/read2lead/.git/hooks/fsmonitor-watchman.sample
+/home/sujan/Documents/read2lead/.git/hooks/update.sample
+/home/sujan/Documents/read2lead/.git/hooks/applypatch-msg.sample
+/home/sujan/Documents/read2lead/.git/config
+/home/sujan/Documents/read2lead/test_exam.odt
+/home/sujan/Documents/read2lead/files.txt
+/home/sujan/Documents/read2lead/output_1.txt
+/home/sujan/Documents/read2lead/dirs2.txt
+/home/sujan/Documents/read2lead/cacti/cacti-learning.odt
+/home/sujan/Documents/read2lead/test1.txt
+/home/sujan/Documents/read2lead/nagios/nagios-learning.odt
+/home/sujan/Documents/read2lead/vpn/openvpn-learning.odt
+/home/sujan/Documents/read2lead/README.md
+/home/sujan/Documents/read2lead/linux/Mastering Python Scripting for System Administrators by Ganesh Sanjiv Naik (z-lib.org)(1).pdf
+/home/sujan/Documents/read2lead/linux/ifconfig_8.txt
+/home/sujan/Documents/read2lead/linux/scripts/awk_practice-2.txt
+/home/sujan/Documents/read2lead/linux/scripts/output_1.txt
+/home/sujan/Documents/read2lead/linux/scripts/get_time_stamp.sh
+/home/sujan/Documents/read2lead/linux/scripts/awk_practice.txt
+/home/sujan/Documents/read2lead/linux/scripts/seek_and_show.sh
+/home/sujan/Documents/read2lead/linux/scripts/.test2.sh.swo
+/home/sujan/Documents/read2lead/linux/scripts/test1.sh
+/home/sujan/Documents/read2lead/linux/scripts/test_output.txt
+/home/sujan/Documents/read2lead/linux/scripts/test2.sh
+/home/sujan/Documents/read2lead/linux/scripts/.test1.sh.swp
+/home/sujan/Documents/read2lead/linux/scripts/.test2.sh.swp
+/home/sujan/Documents/read2lead/linux/linux tools.odt
+/home/sujan/Documents/read2lead/linux/How Linux Works What Every Superuser Should Know by Brian Ward (z-lib.org)(1).pdf
+/home/sujan/Documents/read2lead/linux/ifconfig.txt
+/home/sujan/Documents/read2lead/linux/Linux Command Line and Shell Scripting Bible by Richard Blum, Christine Bresnahan (z-lib.org).pdf
+/home/sujan/Documents/read2lead/linux/linux-learning.odt
+/home/sujan/Documents/read2lead/linux/UNIX and Linux System Administration Handbook by Evi Nemeth et al. (z-lib.org).pdf
+/home/sujan/Documents/read2lead/PBX/pbx-learning.odt
+/home/sujan/Documents/read2lead/PBX/.~lock.pbx-learning-2.odt#
+/home/sujan/Documents/read2lead/PBX/pbx-learning-2.odt
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-45-48.png
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-45-30.png
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-45-23.png
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-45-38.png
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-44-58.png
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-46-11.png
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-45-21.png
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-45-35.png
+/home/sujan/Documents/read2lead/PBX/asterix/asterix-learning.odt
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-45-33.png
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-46-04.png
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-45-55.png
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-46-06.png
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-45-19.png
+/home/sujan/Documents/read2lead/PBX/asterix/Screenshot from 2021-09-29 11-45-59.png
+/home/sujan/Documents/read2lead/PBX/pbx troubleshooting.odt
+/home/sujan/Documents/read2lead/dirs.txt
+/home/sujan/Documents/read2lead/docker/docker-learning.odt
+/home/sujan/Documents/read2lead/webserver/Nginx From Beginner to Pro by Rahul Soni (auth.) (z-lib.org).pdf
+/home/sujan/Documents/read2lead/webserver/Apache, PHP-FPM Nginx How to Build a Secure, Fast and Powerful Web-Server by Adrian Ling (z-lib.org).epub
+/home/sujan/Documents/read2lead/python/test_1.txt
+/home/sujan/Documents/read2lead/python/test_1.py
+/home/sujan/Documents/read2lead/python/debugging_1.py
+/home/sujan/Documents/read2lead/python/cut_screenshots1.py
+/home/sujan/Documents/read2lead/python/all_file_git_upload.py
+/home/sujan/Documents/read2lead/python/python-learning.odt
+/home/sujan/Documents/read2lead/python/verify document/harcascade/harcascade_frontal_alt.xml
+/home/sujan/Documents/read2lead/python/verify document/verify_document_1.py
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/img2.png1.png
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/sample images_cut3.png
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/sample images_cut1.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/sample images_cut0.jpg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/1imgblur.jpeg0.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/2imgblur.jpeg1.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/sample images_cut3.jpg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/3imgblur.jpeg2.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/0imgblur.jpeg1.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/sample images_cut2.png
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/img3.jpg1.jpg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/img3.jpg0.jpg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/3imgblur.jpeg3.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/img2.png0.png
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/img3.jpg2.jpg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/3imgblur.jpeg1.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/img2.png2.png
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/img.jpeg0.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/sample images_cut0.png
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/2imgblur.jpeg2.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/sample images_cut2.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/0imgblur.jpeg3.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/1imgblur.jpeg1.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/img.jpeg3.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/1imgblur.jpeg2.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/sample images_cut1.jpg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/2imgblur.jpeg3.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/sample images_cut1.png
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/sample images_cut0.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/sample images_cut3.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/sample images_cut2.jpg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/img3.jpg3.jpg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/img2.png3.png
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/0imgblur.jpeg0.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/1imgblur.jpeg3.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/img.jpeg2.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/2imgblur.jpeg0.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/3imgblur.jpeg0.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/img.jpeg1.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images_cut/0imgblur.jpeg2.jpeg
+/home/sujan/Documents/read2lead/python/verify document/verify_document.odt
+/home/sujan/Documents/read2lead/python/verify document/sample images/img.jpeg
+/home/sujan/Documents/read2lead/python/verify document/sample images/img2.png
+/home/sujan/Documents/read2lead/python/verify document/sample images/img3.jpg
+/home/sujan/Documents/read2lead/python/verify document/sample images/iax-trunking.png
+/home/sujan/Documents/read2lead/horizon/Scripting VMware Power Tools for Automating Virtual Infrastructure Administration by Al Muller (z-lib.org).pdf
+/home/sujan/Documents/read2lead/horizon/VMware Horizon View Essentials by Peter von Oven (z-lib.org).pdf
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_1.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 21-24-47.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_9.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-40-18.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_16.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-46-53.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-44-22.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-40-06.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-44-30.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-20-44.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_14.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-41-47.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-29-05.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_11.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-43-22.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_10.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_8.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_7.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-45-48.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-44-37.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_6.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-29-35.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-39-30.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-43-03.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 13-13-15.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-42-02.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-42-08.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-44-12.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-20-29.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-43-14.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-39-33.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_5.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-20-54.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_18.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-45-31.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-28-17.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-26-25.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_3.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-40-40.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-44-24.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 13-13-35.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_2.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_15.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-29-39.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-20-38.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-41-40.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-40-25.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-42-03.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-41-55.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-40-08.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_12.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 13-13-28.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-39-35.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_17.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_13.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-46-44.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 13-13-11.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-39-27.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/horizon_4.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-39-41.png
+/home/sujan/Documents/read2lead/horizon/horizon learning/Screenshot from 2021-09-28 11-39-44.png
+/home/sujan/Documents/read2lead/horizon/VMware Horizon Workspace Essentials by Peter von Oven, Peter Björk, Joel Lindberg (z-lib.org).pdf
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut22.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut11.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut34.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut5.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut13.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut18.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut12.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut14.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut23.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut33.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut0.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut3.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut30.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut10.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut2.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut15.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut24.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut7.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut19.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut29.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut32.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut28.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut4.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut17.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut27.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut21.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut8.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut25.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut20.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut35.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut26.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut16.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut6.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut1.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut9.png
+/home/sujan/Documents/read2lead/horizon/ODBC_cut/ODBC_cut31.png
+/home/sujan/Documents/read2lead/horizon/horizon_learning.odt
+/home/sujan/Documents/read2lead/horizon/Mastering VMware Horizon 6 Unlock the advanced features and full power of VMware Horizon 6 to deliver the industrys most comprehensive end-to-end user experience by Peter von Oven, Barry Coombs (z-lib.org).pdf
+/home/sujan/Documents/read2lead/horizon/VMware horizon niew 5.3 design patterns and best practices by Ventresco, Jason (z-lib.org).pdf
+/home/sujan/Documents/read2lead/horizon/vmware esxi_cut/vmware esxi_cut3.png
+/home/sujan/Documents/read2lead/horizon/vmware esxi_cut/vmware esxi_cut4.png
+/home/sujan/Documents/read2lead/horizon/vmware esxi_cut/vmware esxi_cut1.png
+/home/sujan/Documents/read2lead/horizon/vmware esxi_cut/vmware esxi_cut0.png
+/home/sujan/Documents/read2lead/horizon/vmware esxi_cut/vmware esxi_cut2.png
+/home/sujan/Documents/read2lead/horizon/composer install/sol-1.png
+/home/sujan/Documents/read2lead/horizon/composer install/sol-8.png
+/home/sujan/Documents/read2lead/horizon/composer install/problem0.png
+/home/sujan/Documents/read2lead/horizon/composer install/permission-issue1.png
+/home/sujan/Documents/read2lead/horizon/composer install/sol-2.png
+/home/sujan/Documents/read2lead/horizon/composer install/problem1.png
+/home/sujan/Documents/read2lead/horizon/composer install/issue-permission-sol.png
+/home/sujan/Documents/read2lead/horizon/composer install/sol-3.png
+/home/sujan/Documents/read2lead/horizon/composer install/sol-6.png
+/home/sujan/Documents/read2lead/horizon/composer install/problem3.png
+/home/sujan/Documents/read2lead/horizon/composer install/sol-4.png
+/home/sujan/Documents/read2lead/horizon/composer install/sol-10.png
+/home/sujan/Documents/read2lead/horizon/composer install/problem2.png
+/home/sujan/Documents/read2lead/horizon/composer install/sol-7.png
+/home/sujan/Documents/read2lead/horizon/composer install/sol-9.png
+/home/sujan/Documents/read2lead/horizon/composer install/sol-5.png
+/home/sujan/Documents/read2lead/knowledge base/self_learned_knowledge.odt
