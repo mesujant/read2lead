@@ -1,0 +1,148 @@
+[2021-10-26 21:24:00] WARNING[14260][C-0000003b]: chan_sip.c:11085 process_sdp_a_audio: Got Opus sprop-maxcapturerate=16000
+    -- Executing [1002@from-internal:1] Set("SIP/1001-00000049", "__RINGTIMER=15") in new stack
+    -- Executing [1002@from-internal:2] Macro("SIP/1001-00000049", "exten-vm,novm,1002,0,0,0") in new stack
+    -- Executing [s@macro-exten-vm:1] Macro("SIP/1001-00000049", "user-callerid,") in new stack
+    -- Executing [s@macro-user-callerid:1] Set("SIP/1001-00000049", "TOUCH_MONITOR=1635262740.112") in new stack
+    -- Executing [s@macro-user-callerid:2] Set("SIP/1001-00000049", "AMPUSER=1001") in new stack
+    -- Executing [s@macro-user-callerid:3] GotoIf("SIP/1001-00000049", "0?report") in new stack
+    -- Executing [s@macro-user-callerid:4] ExecIf("SIP/1001-00000049", "1?Set(REALCALLERIDNUM=1001)") in new stack
+    -- Executing [s@macro-user-callerid:5] Set("SIP/1001-00000049", "AMPUSER=1001") in new stack
+    -- Executing [s@macro-user-callerid:6] GotoIf("SIP/1001-00000049", "0?limit") in new stack
+    -- Executing [s@macro-user-callerid:7] Set("SIP/1001-00000049", "AMPUSERCIDNAME=sujan") in new stack
+    -- Executing [s@macro-user-callerid:8] GotoIf("SIP/1001-00000049", "0?report") in new stack
+    -- Executing [s@macro-user-callerid:9] Set("SIP/1001-00000049", "AMPUSERCID=1001") in new stack
+    -- Executing [s@macro-user-callerid:10] Set("SIP/1001-00000049", "__DIAL_OPTIONS=tr") in new stack
+    -- Executing [s@macro-user-callerid:11] Set("SIP/1001-00000049", "CALLERID(all)="sujan" <1001>") in new stack
+    -- Executing [s@macro-user-callerid:12] GotoIf("SIP/1001-00000049", "0?limit") in new stack
+    -- Executing [s@macro-user-callerid:13] ExecIf("SIP/1001-00000049", "0?Set(GROUP(concurrency_limit)=1001)") in new stack
+    -- Executing [s@macro-user-callerid:14] ExecIf("SIP/1001-00000049", "0?Set(CHANNEL(language)=)") in new stack
+    -- Executing [s@macro-user-callerid:15] GotoIf("SIP/1001-00000049", "0?continue") in new stack
+    -- Executing [s@macro-user-callerid:16] Set("SIP/1001-00000049", "__TTL=64") in new stack
+    -- Executing [s@macro-user-callerid:17] GotoIf("SIP/1001-00000049", "1?continue") in new stack
+    -- Goto (macro-user-callerid,s,28)
+    -- Executing [s@macro-user-callerid:28] Set("SIP/1001-00000049", "CALLERID(number)=1001") in new stack
+    -- Executing [s@macro-user-callerid:29] Set("SIP/1001-00000049", "CALLERID(name)=sujan") in new stack
+    -- Executing [s@macro-user-callerid:30] Set("SIP/1001-00000049", "CDR(cnum)=1001") in new stack
+    -- Executing [s@macro-user-callerid:31] Set("SIP/1001-00000049", "CDR(cnam)=sujan") in new stack
+    -- Executing [s@macro-user-callerid:32] Set("SIP/1001-00000049", "CHANNEL(language)=en") in new stack
+    -- Executing [s@macro-exten-vm:2] Set("SIP/1001-00000049", "RingGroupMethod=none") in new stack
+    -- Executing [s@macro-exten-vm:3] Set("SIP/1001-00000049", "__EXTTOCALL=1002") in new stack
+    -- Executing [s@macro-exten-vm:4] Set("SIP/1001-00000049", "__PICKUPMARK=1002") in new stack
+    -- Executing [s@macro-exten-vm:5] Set("SIP/1001-00000049", "RT=") in new stack
+    -- Executing [s@macro-exten-vm:6] Gosub("SIP/1001-00000049", "sub-record-check,s,1(exten,1002,)") in new stack
+    -- Executing [s@sub-record-check:1] Set("SIP/1001-00000049", "REC_POLICY_MODE_SAVE=") in new stack
+    -- Executing [s@sub-record-check:2] GotoIf("SIP/1001-00000049", "1?check") in new stack
+    -- Goto (sub-record-check,s,7)
+    -- Executing [s@sub-record-check:7] Set("SIP/1001-00000049", "__MON_FMT=wav") in new stack
+    -- Executing [s@sub-record-check:8] GotoIf("SIP/1001-00000049", "1?next") in new stack
+    -- Goto (sub-record-check,s,11)
+    -- Executing [s@sub-record-check:11] ExecIf("SIP/1001-00000049", "0?Return()") in new stack
+    -- Executing [s@sub-record-check:12] ExecIf("SIP/1001-00000049", "0?Set(__REC_POLICY_MODE=)") in new stack
+    -- Executing [s@sub-record-check:13] GotoIf("SIP/1001-00000049", "0?exten,1") in new stack
+    -- Executing [s@sub-record-check:14] Set("SIP/1001-00000049", "__REC_STATUS=INITIALIZED") in new stack
+    -- Executing [s@sub-record-check:15] Set("SIP/1001-00000049", "NOW=1635262740") in new stack
+    -- Executing [s@sub-record-check:16] Set("SIP/1001-00000049", "__DAY=26") in new stack
+    -- Executing [s@sub-record-check:17] Set("SIP/1001-00000049", "__MONTH=10") in new stack
+    -- Executing [s@sub-record-check:18] Set("SIP/1001-00000049", "__YEAR=2021") in new stack
+    -- Executing [s@sub-record-check:19] Set("SIP/1001-00000049", "__TIMESTR=20211026-212400") in new stack
+    -- Executing [s@sub-record-check:20] Set("SIP/1001-00000049", "__FROMEXTEN=1001") in new stack
+    -- Executing [s@sub-record-check:21] Set("SIP/1001-00000049", "__CALLFILENAME=exten-1002-1001-20211026-212400-1635262740.112") in new stack
+    -- Executing [s@sub-record-check:22] Goto("SIP/1001-00000049", "exten,1") in new stack
+    -- Goto (sub-record-check,exten,1)
+    -- Executing [exten@sub-record-check:1] GotoIf("SIP/1001-00000049", "0?callee") in new stack
+    -- Executing [exten@sub-record-check:2] Set("SIP/1001-00000049", "__REC_POLICY_MODE=always") in new stack
+    -- Executing [exten@sub-record-check:3] GotoIf("SIP/1001-00000049", "0?caller") in new stack
+    -- Executing [exten@sub-record-check:4] GotoIf("SIP/1001-00000049", "0?callee") in new stack
+    -- Executing [exten@sub-record-check:5] ExecIf("SIP/1001-00000049", "2?Set(CALLER_PRI=10):Set(CALLER_PRI=0)") in new stack
+    -- Executing [exten@sub-record-check:6] ExecIf("SIP/1001-00000049", "2?Set(CALLEE_PRI=10):Set(CALLEE_PRI=0)") in new stack
+    -- Executing [exten@sub-record-check:7] GotoIf("SIP/1001-00000049", "1?caller:callee") in new stack
+    -- Goto (sub-record-check,exten,10)
+    -- Executing [exten@sub-record-check:10] Set("SIP/1001-00000049", "__REC_POLICY_MODE=always") in new stack
+    -- Executing [exten@sub-record-check:11] GosubIf("SIP/1001-00000049", "1?record,1(exten,1002,1001)") in new stack
+    -- Executing [record@sub-record-check:1] Set("SIP/1001-00000049", "AUDIOHOOK_INHERIT(MixMonitor)=yes") in new stack
+    -- Executing [record@sub-record-check:2] MixMonitor("SIP/1001-00000049", "2021/10/26/exten-1002-1001-20211026-212400-1635262740.112.wav,,") in new stack
+  == Begin MixMonitor Recording SIP/1001-00000049
+    -- Executing [record@sub-record-check:3] Set("SIP/1001-00000049", "__REC_STATUS=RECORDING") in new stack
+    -- Executing [record@sub-record-check:4] Set("SIP/1001-00000049", "CDR(recordingfile)=exten-1002-1001-20211026-212400-1635262740.112.wav") in new stack
+    -- Executing [record@sub-record-check:5] Return("SIP/1001-00000049", "") in new stack
+    -- Executing [exten@sub-record-check:12] Return("SIP/1001-00000049", "") in new stack
+    -- Executing [s@macro-exten-vm:7] Macro("SIP/1001-00000049", "dial-one,,tr,1002") in new stack
+    -- Executing [s@macro-dial-one:1] Set("SIP/1001-00000049", "DEXTEN=1002") in new stack
+    -- Executing [s@macro-dial-one:2] Set("SIP/1001-00000049", "DIALSTATUS_CW=") in new stack
+    -- Executing [s@macro-dial-one:3] GosubIf("SIP/1001-00000049", "0?screen,1()") in new stack
+    -- Executing [s@macro-dial-one:4] GosubIf("SIP/1001-00000049", "0?cf,1()") in new stack
+    -- Executing [s@macro-dial-one:5] GotoIf("SIP/1001-00000049", "1?skip1") in new stack
+    -- Goto (macro-dial-one,s,8)
+    -- Executing [s@macro-dial-one:8] GotoIf("SIP/1001-00000049", "0?nodial") in new stack
+    -- Executing [s@macro-dial-one:9] GotoIf("SIP/1001-00000049", "0?continue") in new stack
+    -- Executing [s@macro-dial-one:10] Set("SIP/1001-00000049", "EXTHASCW=") in new stack
+    -- Executing [s@macro-dial-one:11] GotoIf("SIP/1001-00000049", "1?next1:cwinusebusy") in new stack
+    -- Goto (macro-dial-one,s,12)
+    -- Executing [s@macro-dial-one:12] GotoIf("SIP/1001-00000049", "0?docfu:skip3") in new stack
+    -- Goto (macro-dial-one,s,16)
+    -- Executing [s@macro-dial-one:16] GotoIf("SIP/1001-00000049", "1?next2:continue") in new stack
+    -- Goto (macro-dial-one,s,17)
+    -- Executing [s@macro-dial-one:17] GotoIf("SIP/1001-00000049", "1?continue") in new stack
+    -- Goto (macro-dial-one,s,25)
+    -- Executing [s@macro-dial-one:25] GotoIf("SIP/1001-00000049", "0?nodial") in new stack
+    -- Executing [s@macro-dial-one:26] GosubIf("SIP/1001-00000049", "1?dstring,1():dlocal,1()") in new stack
+    -- Executing [dstring@macro-dial-one:1] Set("SIP/1001-00000049", "DSTRING=") in new stack
+    -- Executing [dstring@macro-dial-one:2] Set("SIP/1001-00000049", "DEVICES=1002") in new stack
+    -- Executing [dstring@macro-dial-one:3] ExecIf("SIP/1001-00000049", "0?Return()") in new stack
+    -- Executing [dstring@macro-dial-one:4] ExecIf("SIP/1001-00000049", "0?Set(DEVICES=002)") in new stack
+    -- Executing [dstring@macro-dial-one:5] Set("SIP/1001-00000049", "LOOPCNT=1") in new stack
+    -- Executing [dstring@macro-dial-one:6] Set("SIP/1001-00000049", "ITER=1") in new stack
+    -- Executing [dstring@macro-dial-one:7] Set("SIP/1001-00000049", "THISDIAL=SIP/1002") in new stack
+    -- Executing [dstring@macro-dial-one:8] GosubIf("SIP/1001-00000049", "1?zap2dahdi,1()") in new stack
+    -- Executing [zap2dahdi@macro-dial-one:1] ExecIf("SIP/1001-00000049", "0?Return()") in new stack
+    -- Executing [zap2dahdi@macro-dial-one:2] Set("SIP/1001-00000049", "NEWDIAL=") in new stack
+    -- Executing [zap2dahdi@macro-dial-one:3] Set("SIP/1001-00000049", "LOOPCNT2=1") in new stack
+    -- Executing [zap2dahdi@macro-dial-one:4] Set("SIP/1001-00000049", "ITER2=1") in new stack
+    -- Executing [zap2dahdi@macro-dial-one:5] Set("SIP/1001-00000049", "THISPART2=SIP/1002") in new stack
+    -- Executing [zap2dahdi@macro-dial-one:6] ExecIf("SIP/1001-00000049", "0?Set(THISPART2=DAHDI/1002)") in new stack
+    -- Executing [zap2dahdi@macro-dial-one:7] Set("SIP/1001-00000049", "NEWDIAL=SIP/1002&") in new stack
+    -- Executing [zap2dahdi@macro-dial-one:8] Set("SIP/1001-00000049", "ITER2=2") in new stack
+    -- Executing [zap2dahdi@macro-dial-one:9] GotoIf("SIP/1001-00000049", "0?begin2") in new stack
+    -- Executing [zap2dahdi@macro-dial-one:10] Set("SIP/1001-00000049", "THISDIAL=SIP/1002") in new stack
+    -- Executing [zap2dahdi@macro-dial-one:11] Return("SIP/1001-00000049", "") in new stack
+    -- Executing [dstring@macro-dial-one:9] Set("SIP/1001-00000049", "DSTRING=SIP/1002&") in new stack
+    -- Executing [dstring@macro-dial-one:10] Set("SIP/1001-00000049", "ITER=2") in new stack
+    -- Executing [dstring@macro-dial-one:11] GotoIf("SIP/1001-00000049", "0?begin") in new stack
+    -- Executing [dstring@macro-dial-one:12] Set("SIP/1001-00000049", "DSTRING=SIP/1002") in new stack
+    -- Executing [dstring@macro-dial-one:13] Return("SIP/1001-00000049", "") in new stack
+    -- Executing [s@macro-dial-one:27] GotoIf("SIP/1001-00000049", "0?nodial") in new stack
+    -- Executing [s@macro-dial-one:28] GotoIf("SIP/1001-00000049", "0?skiptrace") in new stack
+    -- Executing [s@macro-dial-one:29] GosubIf("SIP/1001-00000049", "1?ctset,1():ctclear,1()") in new stack
+    -- Executing [ctset@macro-dial-one:1] Set("SIP/1001-00000049", "DB(CALLTRACE/1002)=1001") in new stack
+    -- Executing [ctset@macro-dial-one:2] Return("SIP/1001-00000049", "") in new stack
+    -- Executing [s@macro-dial-one:30] Set("SIP/1001-00000049", "D_OPTIONS=tr") in new stack
+    -- Executing [s@macro-dial-one:31] ExecIf("SIP/1001-00000049", "0?SIPAddHeader(Alert-Info: )") in new stack
+    -- Executing [s@macro-dial-one:32] ExecIf("SIP/1001-00000049", "0?SIPAddHeader()") in new stack
+    -- Executing [s@macro-dial-one:33] ExecIf("SIP/1001-00000049", "0?Set(CHANNEL(musicclass)=)") in new stack
+    -- Executing [s@macro-dial-one:34] GosubIf("SIP/1001-00000049", "0?qwait,1()") in new stack
+    -- Executing [s@macro-dial-one:35] Set("SIP/1001-00000049", "__CWIGNORE=") in new stack
+    -- Executing [s@macro-dial-one:36] Set("SIP/1001-00000049", "__KEEPCID=TRUE") in new stack
+    -- Executing [s@macro-dial-one:37] GotoIf("SIP/1001-00000049", "0?usegoto,1") in new stack
+    -- Executing [s@macro-dial-one:38] GotoIf("SIP/1001-00000049", "0?godial") in new stack
+    -- Executing [s@macro-dial-one:39] Gosub("SIP/1001-00000049", "sub-presencestate-display,s,1(1002)") in new stack
+[2021-10-26 21:24:00] WARNING[24099][C-0000003b]: func_presencestate.c:132 presence_read: PRESENCE_STATE unknown 
+    -- Executing [s@sub-presencestate-display:1] Goto("SIP/1001-00000049", "state-,1") in new stack
+    -- Goto (sub-presencestate-display,state-,1)
+    -- Executing [state-@sub-presencestate-display:1] Set("SIP/1001-00000049", "PRESENCESTATE_DISPLAY=") in new stack
+    -- Executing [state-@sub-presencestate-display:2] Return("SIP/1001-00000049", "") in new stack
+    -- Executing [s@macro-dial-one:40] Set("SIP/1001-00000049", "CONNECTEDLINE(name,i)=sujan2") in new stack
+    -- Executing [s@macro-dial-one:41] Set("SIP/1001-00000049", "CONNECTEDLINE(num)=1002") in new stack
+    -- Executing [s@macro-dial-one:42] Set("SIP/1001-00000049", "D_OPTIONS=trI") in new stack
+    -- Executing [s@macro-dial-one:43] Dial("SIP/1001-00000049", "SIP/1002,,trI") in new stack
+  == Using SIP RTP TOS bits 184
+  == Using SIP RTP CoS mark 5
+    -- Called SIP/1002
+    -- Connected line update to SIP/1001-00000049 prevented.
+    -- SIP/1002-0000004a is ringing
+  == Spawn extension (macro-dial-one, s, 43) exited non-zero on 'SIP/1001-00000049' in macro 'dial-one'
+  == Spawn extension (macro-exten-vm, s, 7) exited non-zero on 'SIP/1001-00000049' in macro 'exten-vm'
+  == Spawn extension (from-internal, 1002, 2) exited non-zero on 'SIP/1001-00000049'
+    -- Executing [h@from-internal:1] Hangup("SIP/1001-00000049", "") in new stack
+  == Spawn extension (from-internal, h, 1) exited non-zero on 'SIP/1001-00000049'
+  == MixMonitor close filestream (mixed)
+  == End MixMonitor Recording SIP/1001-00000049
