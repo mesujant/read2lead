@@ -54,11 +54,28 @@ def get_latest_modified_time(path):
 
 def fun_test(path):
 	files = [r+"/"+d1+"/"+f1 for r, d, f in os.walk(path) for d1 in d for f1 in f]
+	directories = [r+"/"+d1+"/" for r, d, f in os.walk(path) for d1 in d]
+	filter_directories = []
+	for i, directory in enumerate(directories):
+		if directory.find(' ') != -1:
+			print(i, directory)
+			temp = directory.split('/')
+			for j, value in enumerate(temp):
+				if value.find(" ") != -1:
+					temp[j] = "'" + value + "'"
+			directories[i] = "/".join(temp)
+			#print(directories[i])
+			#input()
+		#input()
+	#print directory and correspoding latest updated file:
+	#print the final output, as the latest updated file resulting last back-up:
+	
+
+	print(directories)		
+		#print(directory)
+	
+
 	#cmd = 'ls -alt {} | head -2 | tail -1'.format(path)
-	latest_bck = time.time()
-	for file in files:
-		os.path.
-	for directory in directories:
 
 
 	for r, d, f in os.walk(path):
