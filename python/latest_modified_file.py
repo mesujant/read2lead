@@ -2,35 +2,38 @@ import os
 import time
 
 
-def get_latest_modified_time(path):
-	files = [r+"/"+d1+"/"+f1 for r, d, f in os.walk(path) for d1 in d for f1 in f]
-	directories = [r+"/"+d1+"/" for r, d, f in os.walk(path) for d1 in d]
-	directories_filtered = []
+#checkk if all directories are included with its absoluted path:
+def check_if_all_directories_serialized(directories):
 	for directory in directories:
-		if directory.find("//") != -1:
-			directory.replace("//", "/")
-		directories_filtered.append(directory)
+		if isinstance(directory, list):
+			print(directory)
+			return False
+	return True
 
-	print("completed:")
-	input()
-	filter_directories = []
-	for i, directory in enumerate(directories_filtered):
+def get_latest_modified_time(path):
+	#files = [r+"/"+d1+"/"+f1 for r, d, f in os.walk(path) for d1 in d for f1 in f]
 
-		if directory.find(' ') != -1:
-			print(i, directory)
-			temp = directory.split('/')
+	#list all directories from the given path:
+	directories = [r+"/"+d1+"/" for r, d, f in os.walk(path) for d1 in d]
+	
+	#checkk if all directories are included with its absoluted path:
+	if not check_if_all_directories_serialized(directories):
+		print("directories list not compatible")
+		input()
+	# else:
+	# 	print("OKAY")
 
- 
-			for j, value in enumerate(temp):
-				if value.find(" ") != -1:
-					temp[j] = "'" + value + "'"
-			directories[i] = "/".join(temp)
-		 
+	if check_if_all_directories_serialized(directories):
+
+		for i, directory in enumerate(directories):
+			if directory.find("//") != -1:
+				directory = directory.replace("//", "/")
+				directories[i] = directory
 
 	 
 	latest_modified_time = 0
 	latest_modified_file = ''
-	for directory in directories_filtered:
+	for directory in directories:
 		 
 		list_of_files = [directory + file for file in os.listdir(directory)]
 
@@ -48,4 +51,3 @@ def get_latest_modified_time(path):
 	print("Latest modified file:", latest_modified_file)
 	print("Latest modified time:", time.ctime(latest_modified_time))
 	print("\n***********************************************************************\n")
-

@@ -52,36 +52,48 @@ import time
 # 	pass
 
 #solve issue of folder name with spaces:
+def check_if_all_directories_serialized(directories):
+	for directory in directories:
+		if isinstance(directory, list):
+			print(directory)
+			return False
+	return True
 
 def get_latest_modified_time(path):
 	files = [r+"/"+d1+"/"+f1 for r, d, f in os.walk(path) for d1 in d for f1 in f]
 	directories = [r+"/"+d1+"/" for r, d, f in os.walk(path) for d1 in d]
-	directories_filtered = []
-	for directory in directories:
-		if directory.find("//") != -1:
-			directory.replace("//", "/")
-		directories_filtered.append(directory)
+	
+	if not check_if_all_directories_serialized(directories):
+		print("directories list not compatible")
+		input()
+	# else:
+	# 	print("OKAY")
 
-	print("completed:")
-	input()
-	filter_directories = []
-	for i, directory in enumerate(directories_filtered):
+	if check_if_all_directories_serialized(directories):
 
-		if directory.find(' ') != -1:
-			print(i, directory)
-			temp = directory.split('/')
+		for i, directory in enumerate(directories):
+
+			if directory.find("//") != -1:
+				directory = directory.replace("//", "/")
+				directories[i] = directory
+
+		# if directory.find(' ') != -1:
+		# 	#print(i, directory)
+		# 	temp = directory.split('/')
 
  
-			for j, value in enumerate(temp):
-				if value.find(" ") != -1:
-					temp[j] = "'" + value + "'"
-			directories[i] = "/".join(temp)
+		# 	for j, value in enumerate(temp):
+		# 		if value.find(" ") != -1:
+		# 			temp[j] = "'" + value + "'"
+		# 	directories[i] = "/".join(temp)
 		 
+	# print(directories)
 
+	# input()
 	 
 	latest_modified_time = 0
 	latest_modified_file = ''
-	for directory in directories_filtered:
+	for directory in directories:
 		 
 		list_of_files = [directory + file for file in os.listdir(directory)]
 
@@ -108,5 +120,5 @@ if __name__ == '__main__':
 	#get_directories(path)
 	#get_files(path)
 	#get_latest_modified_time(path)
-	fun_test(path)
+	get_latest_modified_time(path)
 
