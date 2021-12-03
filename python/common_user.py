@@ -37,13 +37,17 @@ def display_result(user_pools):
 	two_pool_user = 0
 	three_pool_user = 0
 	four_pool_user = 0
+	f2 = open('users_in_multiple_pool.txt', 'a')
+	f = open('user_associated_pool.txt','a')
 
 	print("\n##########################################\n")
 	for user, pool in user_pools:
 		if len(pool) == 1:
-			print(user, pool)
+			print(user , pool)
+			f.write("\n" + user + " " + str(pool))
 			one_pool_user += 1
-	
+	f.write("\n\n")
+
 	print("\n##########################################\n")
 	print("Total one Pool User :", one_pool_user)
 	print("\n##########################################\n")
@@ -51,7 +55,11 @@ def display_result(user_pools):
 	for user, pool in user_pools:
 		if len(pool) == 2:
 			print(user, pool)
+			f.write("\n" + user + " " + str(pool))
+			f2.write("\n" + user + " " + str(pool))
 			two_pool_user += 1
+
+	f.write("\n\n")
 
 	print("\n##########################################\n")
 	print("Total two Pool User :", two_pool_user)
@@ -61,7 +69,13 @@ def display_result(user_pools):
 	for user, pool in user_pools:
 		if len(pool) == 3:
 			print(user, pool)
+			f.write("\n" + user + " " + str(pool))
+			f2.write("\n" + user + " " + str(pool))
 			three_pool_user += 1
+
+	f.write("\n\n")
+
+
 	print("\n##########################################\n")
 	print("Total three Pool User :", three_pool_user)
 	print("\n##########################################\n")
@@ -70,7 +84,12 @@ def display_result(user_pools):
 	for user, pool in user_pools:
 		if len(pool) == 4:
 			print(user, pool)
+			f.write("\n" + user + " " + str(pool))
+			f2.write("\n" + user + " " + str(pool))
 			four_pool_user += 1
+	f.write("\n\n")
+
+
 	print("\n##########################################\n")
 	print("Total four Pool User :", four_pool_user)
 	print("\n##########################################\n")

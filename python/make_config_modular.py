@@ -14,7 +14,7 @@ def find_content_of_section(lines, section):
 			open_brac_count += 1
 			#while close_brac_count != open_brac_count:
 			for j in range(i, len(lines)):
-				print(lines[j])
+				#print(lines[j])
 				contents.append(lines[j])
 				if "}" in lines[j]:
 					close_brac_count += 1
@@ -22,19 +22,44 @@ def find_content_of_section(lines, section):
 					break
 	return contents		
 
+def create_new_dir_conf(contents_modulated, file):
+	contents = []
+	content_config = []
+	with open(file, 'r') as f:
+		contents =  f.readlines()
+
+	print("content not in modulated")
+	
+	# print(contents)
+	# input()
+	# print(contents_modulated)
+	# input() 
+	for content in contents:
+		if content not in contents_modulated:
+			content_config.append(content)
+
+
+	with open('new_director.conf', 'w') as f:
+		for content in content_config:
+			f.write(content)
+
 
 def create_section_files():
+	contents_modulated = []
 	file_path = os.getcwd() + "/" + "bacula-dir.txt"
 	lines = read_file(file_path)
-
-	sections = ['Client', 'Pool', 'Storage', 'Job', 'Schedule', 'Autochanger']
+	 
+	sections = ['Client', 'Pool', 'Storage', 'Job', 'Schedule', 'Autochanger', 'FileSet']
 	for section in sections:
-		print(section)
+		# print(section)
+		# input()
 		contents = find_content_of_section(lines, section)
+		contents_modulated += contents
 		with open(section+"s.conf", 'w') as f:
 			for content in contents:
 				f.write(content)
-		input()
+
+	create_new_dir_conf(contents_modulated, file_path)
 
 		 
 
