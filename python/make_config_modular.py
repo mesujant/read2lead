@@ -1,4 +1,5 @@
 import os
+import shutil as s
 
 def read_file(file_path):
 	with open(file_path, 'r') as f: return f.readlines()
@@ -11,9 +12,12 @@ def find_content_of_section(lines, section):
 	for i, line in enumerate(lines):
 		if section in line and "{" in line:
 			#print(line)
-			open_brac_count += 1
+			
 
 			for j in range(i, len(lines)):
+
+				if "{" in lines[j]:
+					open_brac_count += 1
 				 
 				contents.append(lines[j])
 				if "}" in lines[j]:
@@ -60,7 +64,28 @@ def create_section_files():
 			for line in f.readlines():
 				f0.write(line)
 
-	f0.write("@ | find etc/bacula /config.d -type f -name *.conf -exec @{} \;")
+		os.remove(section+"s.conf")
+
+	if not os.path.isdir(os.getcwd()+"/config.d"):
+		os.mkdir(os.getcwd()+"/config.d")
+		
+	for section in sections:
+		if section not in ['Director', 'Messages', 'Console', 'Catalog']:
+			s.move(os.getcwd() + "/" + section + "s.conf", os.getcwd() + '/config.d/')
+	 
+
+
+	f0.write("@/opt/bacula/etc/config.d/Autochangers.conf")
+	f0.write("\n@/opt/bacula/etc/config.d/Clients.conf")
+	f0.write("\n@/opt/bacula/etc/config.d/Jobs.conf")
+	f0.write("\n@/opt/bacula/etc/config.d/FileSets.conf")
+	f0.write("\n@/opt/bacula/etc/config.d/Schedules.conf")
+	f0.write("\n@/opt/bacula/etc/config.d/Pools.conf")
+
+	f0.close()
+
+
+	 
  
      
 
