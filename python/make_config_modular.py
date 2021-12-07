@@ -68,10 +68,10 @@ def create_section_files():
 
 	if not os.path.isdir(os.getcwd()+"/config.d"):
 		os.mkdir(os.getcwd()+"/config.d")
-		
-	for section in sections:
-		if section not in ['Director', 'Messages', 'Console', 'Catalog']:
-			s.move(os.getcwd() + "/" + section + "s.conf", os.getcwd() + '/config.d/')
+
+	# for section in sections:
+	# 	if section not in ['Director', 'Messages', 'Console', 'Catalog']:
+	# 		s.move(os.getcwd() + "/" + section + "s.conf", os.getcwd() + '/config.d/')
 	 
 
 
@@ -83,13 +83,6 @@ def create_section_files():
 	f0.write("\n@/opt/bacula/etc/config.d/Pools.conf")
 
 	f0.close()
-
-
-	 
- 
-     
-
-		 
 
 
 if __name__ == '__main__':
