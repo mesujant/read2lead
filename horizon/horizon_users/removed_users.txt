@@ -8,17 +8,15 @@ rajesh.chaudhari ['Desktop_Pool3.txt', 'Desktop_Pool2.txt']
 shalikram.khanal ['Desktop_Pool2.txt[069]', 'Desktop_Pool0.txt']
 sarita.adhikari3 ['Desktop_Pool0.txt', 'Desktop_Pool1.txt']
 sabina.shrestha ['Desktop_Pool3.txt', 'Desktop_Pool0.txt[036]']
-
-
-
 aashik.maharjan ['Desktop_Pool0.txt', 'Desktop_Pool1.txt']
-sushmita.poudel ['Desktop_Pool2.txt', 'Desktop_Pool1.txt']
-chetana.chhetri ['Desktop_Pool2.txt', 'Desktop_Pool0.txt']
+sushmita.poudel ['Desktop_Pool2.txt[]49', 'Desktop_Pool1.txt']
+chetana.chhetri ['Desktop_Pool2.txt[46]', 'Desktop_Pool0.txt']
 mahesori.bhatta ['Desktop_Pool3.txt[042]', 'Desktop_Pool2.txt[19]']
-deepa.shrestha ['Desktop_Pool3.txt', 'Desktop_Pool0.txt']
-bhatta.manisha ['Desktop_Pool2.txt', 'Desktop_Pool1.txt']
+deepa.shrestha ['Desktop_Pool3.txt', 'Desktop_Pool0.txt[48[']
+bhatta.manisha ['Desktop_Pool2.txt', 'Desktop_Pool1.txt[56]']
 birendra.thapa ['Desktop_Pool2.txt', 'Desktop_Pool0.txt']
-nabin.mahato1 ['Desktop_Pool2.txt', 'Desktop_Pool1.txt']
+nabin.mahato1 ['Desktop_Pool2.txt[86]', 'Desktop_Pool1.txt']
+
 millan.poudel ['Desktop_Pool2.txt', 'Desktop_Pool0.txt']
 sanjita.thapa ['Desktop_Pool0.txt', 'Desktop_Pool1.txt']
 prabin.gurung ['Desktop_Pool2.txt', 'Desktop_Pool1.txt']
