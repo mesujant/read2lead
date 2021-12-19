@@ -1,0 +1,55 @@
+---
+ - name: push bacula-fd rpm file, install and check its status
+   hosts: test
+   become: true
+   tasks:
+    - name: push bacula-fd rpm
+      ansible.builtin.copy:
+       src: /home/ansible/bacula-client-11.0.5-1.el7.x86_64.rpm
+       dest: /home/ansible/
+       owner: ansible
+       group: ansible
+       mode:  '0644'
+
+    - name: push bacula-fd rpm
+      ansible.builtin.copy:
+       src: /home/ansible/bacula-libs-11.0.5-1.el7.x86_64.rpm
+       dest: /home/ansible/
+       owner: ansible
+       group: ansible
+
+    - name: install from same .rpm package
+      ansible.builtin.shell: rpm -i  bacula-libs-11.0.5-1.el7.x86_64.rpm
+      args:
+        chdir: /home/ansible/
+
+    - name: install from same .rpm package
+      ansible.builtin.shell: rpm -i  bacula-client-11.0.5-1.el7.x86_64.rpm
+      args:
+        chdir: /home/ansible/
+
+    - name: start bacula-client service
+      become: true
+      ansible.builtin.service:
+       name: bacula-fd
+       state: started
+
+    - name: enable bacula-client service
+      become: true
+      ansible.builtin.service:
+       name: bacula-fd
+       enabled: no
+
+    - name: configure iptables
+      become: true
+      ansible.builtin.iptables:
+       chain: INPUT
+       source: 202.79.36.170
+       comment: bacula-client
+
+#    - name: enable bacula-client service
+#      become: true
+#      ansible.builtin.service:
+#       name: bacula-fd
+#       enabled: no
+
