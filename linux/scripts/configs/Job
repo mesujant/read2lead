@@ -1,0 +1,205 @@
+
+
+Job {
+  Name = "CLIENT_NAME"
+  Type = Backup
+  Level = Incremental
+  Client = CLIENT_NAME
+  FileSet = "FILE_SET" # predefined set
+  Schedule = "WeeklyCycle"
+  Storage = File2
+  Messages = Standard
+  Pool = File
+  SpoolAttributes = yes
+  Priority = 10
+  Write Bootstrap = "/opt/bacula/working/%c.bsr"
+
+}
+
+JobDefs {
+  Name = "DefaultJob"
+  Type = Backup
+  Level = Incremental
+  Client = localhost-fd
+  FileSet = "Full Set"
+  Schedule = "WeeklyCycle"
+  Storage = File2
+  Messages = Standard
+  Pool = File
+  SpoolAttributes = yes
+  Priority = 10
+  Write Bootstrap = "/opt/bacula/working/%c.bsr"
+
+}
+
+JobDefs {
+  Name = "TestDefaultJob"
+  Type = Backup
+  Level = Incremental
+  Client = localhost-fd
+  FileSet = "Full Set"
+  Schedule = "WeeklyCycle"
+  Storage = File2
+  Messages = Standard
+  Pool = File
+  SpoolAttributes = yes
+  Priority = 10
+  Write Bootstrap = "/opt/bacula/working/%c.bsr"
+
+}
+
+JobDefs {
+  Name = "CactiDefaultJob"
+  Type = Backup
+  Level = Incremental
+  Client = localhost-fd
+  FileSet = "Full Set"
+  Schedule = "WeeklyCycle"
+  Storage = File2
+  Messages = Standard
+  Pool = File
+  SpoolAttributes = yes
+  Priority = 10
+  Write Bootstrap = "/opt/bacula/working/%c.bsr"
+
+}
+
+
+Job {
+  Name = "test_backup"
+  Type = Backup
+  Level = Incremental
+  Client = test_vm
+  FileSet = "Test Set"
+  Schedule = "WeeklyCycle"
+  Storage = File2
+  Messages = Standard
+  Pool = File
+  SpoolAttributes = yes
+  Priority = 10
+  Write Bootstrap = "/opt/bacula/working/%c.bsr"
+
+}
+
+Job {
+  Name = "test_restore"
+  Type = Restore
+  Level = Incremental
+  Client = test_vm
+  FileSet = "Test Set"
+  Schedule = "WeeklyCycle"
+  Storage = File2
+  Messages = Standard
+  Pool = File
+  SpoolAttributes = yes
+  Priority = 10
+  Where = /bacula/restore
+}
+
+#Job defination for cacti-srv
+Job {
+  Name = "Backup-cacti-srv-01"
+  Type = Backup
+  Level = Incremental
+  Client = cacti-srv-01
+  FileSet = "Cacti Set"
+  Schedule = "CactiSchedule"
+  Storage = File2
+  Messages = Standard
+  Pool = File
+  SpoolAttributes = yes
+  Priority = 10
+  Write Bootstrap = "/opt/bacula/working/%c.bsr"
+
+}
+
+#Job defination for cacti-srv
+Job {
+  Name = "Backup-cacti-lnet-02"
+  Type = Backup
+  Level = Incremental
+  Client = cacti-lnet-02
+  FileSet = "Cacti Set"
+  Schedule = "CactiSchedule"
+  Storage = File2
+  Messages = Standard
+  Pool = File
+  SpoolAttributes = yes
+  Priority = 10
+  Write Bootstrap = "/opt/bacula/working/%c.bsr"
+  
+}
+
+Job {
+  Name = "BackupClient1"
+  JobDefs = "DefaultJob"
+}
+#Job {
+#  Name = "BackupClient2"
+#  Client = localhost2-fd
+#  JobDefs = "DefaultJob"
+#}
+#Job {
+#  Name = "BackupClient1-to-Tape"
+#  JobDefs = "DefaultJob"
+#  Storage = LTO-4
+#  Spool Data = yes    # Avoid shoe-shine
+#  Pool = Default
+#}
+Job {
+  Name = "BackupCatalog"
+  JobDefs = "DefaultJob"
+  Level = Full
+  FileSet="Catalog"
+  Schedule = "WeeklyCycleAfterBackup"
+  # This creates an ASCII copy of the catalog
+  # Arguments to make_catalog_backup.pl are:
+  #  make_catalog_backup.pl <catalog-name>
+  RunBeforeJob = "/opt/bacula/scripts/make_catalog_backup.pl MyCatalog"
+  # This deletes the copy of the catalog
+  RunAfterJob  = "/opt/bacula/scripts/delete_catalog_backup"
+  Write Bootstrap = "/opt/bacula/working/%n.bsr"
+  Priority = 11                   # run after main backup
+}
+Job {
+  Name = "RestoreFiles"
+  Type = Restore
+  Client=localhost-fd
+  Storage = File1
+# The FileSet and Pool directives are not used by Restore Jobs
+# but must not be removed
+  FileSet="Full Set"
+  Pool = File
+  Messages = Standard
+  Where = /bacula/restore
+}
+#cacti restore
+Job {
+  Name = "CactiRestore"
+  Type = Restore
+  Client= cacti-lnet-02
+  Storage = File2
+# The FileSet and Pool directives are not used by Restore Jobs
+# but must not be removed
+  FileSet="Cacti Set"
+  Pool = File
+  Messages = Standard
+  Where = /bacula/restore
+}
+
+#nagios backup and restore job
+Job {
+  Name = "Backup-nagios-srv-01"
+  Type = Backup
+  Level = Incremental
+  Client = nagios-srv-01
+  FileSet = "Nagios Set"
+  Schedule = "NagiosSchedule"
+  Storage = Nagios
+  Messages = Standard
+  Pool = File
+  SpoolAttributes = yes
+  Priority = 10
+  Write Bootstrap = "/opt/bacula/working/%c.bsr"
+}
+  

@@ -1,0 +1,19 @@
+#this is test
+[test]
+172.28.255.16	ansible_ssh_user=ansible	ansible_ssh_pass=ansible
+172.28.255.16
+test
+
+[prod_test_server]
+172.28.255.16
+172.28.255.16
+
+
+[web-servers]
+172.28.255.16
+172.28.255.16
+
+
+
+[director]
+172.28.255.16

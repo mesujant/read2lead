@@ -1,0 +1,14 @@
+#client defination for CLIENT_NAME
+
+Client {
+  Name = CLIENT_NAME
+  Address = CLIENT_NAME
+  FDPort = 9102
+  Catalog = MyCatalog
+ # Password = "OQCMipCPmdosElU9DDWf5aOo4gynkMg227AAZ2c6oOEJ"          # password for FileDaemon
+  Password = "CLIENT_NAME"
+  File Retention = 60 days            # 60 days
+  Job Retention = 6 months            # six months
+  AutoPrune = yes                     # Prune expired Jobs/Files
+  Maximum Concurrent Jobs = 10
+}

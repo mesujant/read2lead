@@ -1,0 +1,11 @@
+Autochanger {
+  Name = File1
+# Do not use "localhost" here
+  Address = 172.28.255.17                # N.B. Use a fully qualified name here
+  SDPort = 9103
+  Password = "hC3ZBLa2bU9rQAgjwSjxN0XUjETlbSMrczDk8gUsSmhq"
+  Device = FileChgr1
+  Media Type = File1
+  Maximum Concurrent Jobs = 20        # run up to 10 jobs a the same time
+  Autochanger = File1                 # point to ourself
+}

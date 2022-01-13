@@ -1,0 +1,18 @@
+director{
+	
+
+}
+#client defination for cacti-lnet-02
+
+Client {
+  Name = cacti-lnet-02
+  Address = cacti-lnet-02
+  FDPort = 9102
+  Catalog = MyCatalog
+ # Password = "OQCMipCPmdosElU9DDWf5aOo4gynkMg227AAZ2c6oOEJ"          # password for FileDaemon
+  Password = "cacti-lnet-02"
+  File Retention = 60 days            # 60 days
+  Job Retention = 6 months            # six months
+  AutoPrune = yes                     # Prune expired Jobs/Files
+  Maximum Concurrent Jobs = 10
+}

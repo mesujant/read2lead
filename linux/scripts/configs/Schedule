@@ -1,0 +1,7 @@
+
+Schedule {
+  Name = "CLIENT_NAME"
+  Run = Full 1st sun at 23:05
+  Run = Differential 2nd-5th sun at 23:05
+  Run = Incremental mon-sat at 23:05
+}

@@ -142,6 +142,7 @@ def inactive_users_associated_pools():
 
 def notify_if_multiple_pool_assigned():
 	
+	
 	pass
 
 
