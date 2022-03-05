@@ -72,31 +72,31 @@ abinash.shrestha ['Desktop_Pool0.txt']
 maniram.pokharel ['Desktop_Pool0.txt']
 gautam.chaudhary ['Desktop_Pool0.txt']
 sabita.chaudhary ['Desktop_Pool3.txt']
-surendra.acharya ['Desktop_Pool0.txt']
+surendra.acharya ['Desktop_Pool0.txt'055]
 parbati.shrestha ['Desktop_Pool1.txt']
-sangita.maharjan ['Desktop_Pool0.txt']
-binisha.adhikari ['Desktop_Pool0.txt']
+sangita.maharjan ['Desktop_Pool0.txt'033]
+binisha.adhikari ['Desktop_Pool0.txt'063]
 narendra.acharya ['Desktop_Pool3.txt']
 sandeep.maharjan ['Desktop_Pool0.txt']
 sanjay.shrestha ['Desktop_Pool2.txt']
 jenson.maharjan ['Desktop_Pool1.txt']
-sanjaya.sunuwar ['Desktop_Pool1.txt']
+sanjaya.sunuwar ['Desktop_Pool1.txt'069]
 kalash.horizon2 ['Desktop_Pool3.txt']
 sanjay.maharjan ['Desktop_Pool2.txt']
 akrity.shrestha ['Desktop_Pool3.txt']
 rithisha.ranjit ['Desktop_Pool1.txt']
 sujal.chaudhary ['Desktop_Pool0.txt']
 deepak.adhikari ['Desktop_Pool0.txt']
-saroj.shrestha3 ['Desktop_Pool0.txt']
+saroj.shrestha3 ['Desktop_Pool0.txt'027]
 subash.dhungana ['Desktop_Pool2.txt']
 sabiraj.sunuwar ['Desktop_Pool2.txt']
-subin.prajapati ['Desktop_Pool0.txt']
+subin.prajapati ['Desktop_Pool0.txt'008]
 emmanuel.tamang ['Desktop_Pool2.txt']
 urusha.shrestha ['Desktop_Pool2.txt']
 bishwas.badgami ['Desktop_Pool0.txt']
 aayush.shrestha ['Desktop_Pool0.txt']
 spandan.pradhan ['Desktop_Pool0.txt']
-pratyush.ranjit ['Desktop_Pool1.txt']
+pratyush.ranjit ['Desktop_Pool1.txt'49]
 pradip.tamrakar ['Desktop_Pool0.txt']
 ashbina.neupane ['Desktop_Pool1.txt']
 shyam.ranamagar ['Desktop_Pool0.txt']
@@ -105,18 +105,22 @@ raisha.shrestha ['Desktop_Pool1.txt']
 lekhnath.bhusal ['Desktop_Pool3.txt']
 kerina.shrestha ['Desktop_Pool1.txt']
 nitesh.adhikari ['Desktop_Pool0.txt']
-shristi.shakya2 ['Desktop_Pool1.txt']
-umeshp.adhikari ['Desktop_Pool0.txt']
+shristi.shakya2 ['Desktop_Pool1.txt'] 043
+umeshp.adhikari ['Desktop_Pool0.txt'013]
 laxmi.chapagain ['Desktop_Pool1.txt']
-niranjan.nepali ['Desktop_Pool0.txt']
-apana.shrestha ['Desktop_Pool0.txt']
+niranjan.nepali ['Desktop_Pool0.txt'17] 
+apana.shrestha ['Desktop_Pool0.txt'10] 
+
+
+
+
 isha.bhattarai ['Desktop_Pool3.txt']
 dileep.agrawal ['Desktop_Pool0.txt']
 jeetendra.karn ['Desktop_Pool0.txt']
 binita.sapkota ['Desktop_Pool1.txt']
 heamang.tamang ['Desktop_Pool0.txt']
 prakash.kunwar ['Desktop_Pool3.txt']
-mandira.katwal ['Desktop_Pool0.txt']
+mandira.katwal ['Desktop_Pool0.txt'] 041
 shankar.sharma ['Desktop_Pool2.txt']
 moti.chaudhary ['Desktop_Pool3.txt']
 tulasi.ghimire ['Desktop_Pool2.txt']
@@ -126,13 +130,13 @@ dilip.maharjan ['Desktop_Pool0.txt']
 minraj.pokhrel ['Desktop_Pool3.txt']
 sunil.shrestha ['Desktop_Pool0.txt']
 samir.shrestha ['Desktop_Pool1.txt']
-birendra.shahi ['Desktop_Pool0.txt']
+sunil.shrestha ['Desktop_Pool0.txt']
 bangshadev.rai ['Desktop_Pool2.txt']
 taushif.ansari ['Desktop_Pool1.txt']
 nagendra.patel ['Desktop_Pool1.txt']
 sadan.maharjan ['Desktop_Pool0.txt']
 abhishek.nepal ['Desktop_Pool2.txt']
-laxman.neupane ['Desktop_Pool3.txt']
+laxman.neupane ['Desktop_Pool3.txt'006]
 sarmila.mahato ['Desktop_Pool1.txt']
 purna.maharjan ['Desktop_Pool1.txt']
 prabeen.gurung ['Desktop_Pool2.txt']
@@ -157,7 +161,7 @@ saurav.kandel ['Desktop_Pool3.txt']
 ganesh.khatri ['Desktop_Pool0.txt']
 rasala.shakya ['Desktop_Pool1.txt']
 karuna.paudel ['Desktop_Pool1.txt']
-indira.khadka ['Desktop_Pool3.txt']
+indira.khadka ['Desktop_Pool3.txt'] *014
 jeevan.sigdel ['Desktop_Pool2.txt']
 smriti.poudel ['Desktop_Pool2.txt']
 sagar.pariyar ['Desktop_Pool3.txt']
@@ -167,7 +171,7 @@ abhishek.shah ['Desktop_Pool2.txt']
 ramesh.gautam ['Desktop_Pool1.txt']
 sunita.gurung ['Desktop_Pool0.txt']
 dharmadev.sah ['Desktop_Pool0.txt']
-jyoti.koirala ['Desktop_Pool0.txt']
+jyoti.koirala ['Desktop_Pool0.txt'] 020
 ishana.gurung ['Desktop_Pool3.txt']
 keshav.khanal ['Desktop_Pool1.txt']
 nirmal.phuyal ['Desktop_Pool0.txt']
@@ -180,26 +184,26 @@ sabita.upreti ['Desktop_Pool2.txt']
 shyambabu.sah ['Desktop_Pool2.txt']
 barsha.poudel ['Desktop_Pool0.txt']
 pramod.dawadi ['Desktop_Pool3.txt']
-rabita.shakya ['Desktop_Pool3.txt']
-sabitri.karki ['Desktop_Pool3.txt']
+rabita.shakya ['Desktop_Pool3.txt'] 023 [might be free check it]
+sabitri.karki ['Desktop_Pool3.txt'] 007
 nirmala.kafle ['Desktop_Pool1.txt']
-bijay.pandey ['Desktop_Pool0.txt']
+bijay.pandey ['Desktop_Pool0.txt'] *057
 nasar.ansari ['Desktop_Pool1.txt']
 pemba.tamang ['Desktop_Pool3.txt']
-pabita.magar ['Desktop_Pool0.txt']
+pabita.magar ['Desktop_Pool0.txt'] *038
 sapna.khatri ['Desktop_Pool1.txt']
 kishor.shahi ['Desktop_Pool2.txt']
 dipak.mandal ['Desktop_Pool0.txt']
-Abiral.karki ['Desktop_Pool0.txt']
-rabin.tamang ['Desktop_Pool0.txt']
+Abiral.karki ['Desktop_Pool0.txt'] *044
+rabin.tamang ['Desktop_Pool0.txt'] *011
 netra.gautam ['Desktop_Pool0.txt']
 sujan.tiwari ['Desktop_Pool2.txt']
-khanal.kiran ['Desktop_Pool0.txt']
-ruplal.yadav ['Desktop_Pool0.txt']
+khanal.kiran ['Desktop_Pool0.txt'] *042
+ruplal.yadav ['Desktop_Pool0.txt'] 
 shashi.nepal ['Desktop_Pool0.txt']
 shiva.pandey ['Desktop_Pool0.txt']
 bishal.thapa ['Desktop_Pool1.txt']
-deepak.thapa ['Desktop_Pool3.txt']
+deepak.thapa ['Desktop_Pool3.txt'] *004
 seema.poudel ['Desktop_Pool3.txt']
 ganga.pandey ['Desktop_Pool1.txt']
 khadka.shiva ['Desktop_Pool3.txt']
@@ -207,9 +211,9 @@ ashish.aryal ['Desktop_Pool2.txt']
 pooja.bhatta ['Desktop_Pool0.txt']
 aanand.yadav ['Desktop_Pool0.txt']
 nikesh.dahal ['Desktop_Pool2.txt']
-suman.khanal ['Desktop_Pool0.txt']
+suman.khanal ['Desktop_Pool0.txt'] 049
 trilok.singh ['Desktop_Pool0.txt']
-nistha.karki ['Desktop_Pool0.txt']
+nistha.karki ['Desktop_Pool0.txt'] 028
 dhundi.aryal ['Desktop_Pool1.txt']
 bibek.poudel ['Desktop_Pool1.txt']
 sushil.thapa ['Desktop_Pool1.txt']
@@ -221,7 +225,7 @@ asman.basnet ['Desktop_Pool0.txt']
 srijan.bhuju ['Desktop_Pool0.txt']
 roshan.karki ['Desktop_Pool3.txt']
 buddha.lama ['Desktop_Pool2.txt']
-binita.lama ['Desktop_Pool0.txt']
+binita.lama ['Desktop_Pool0.txt'] 052
 ishwor.puri ['Desktop_Pool2.txt']
 mina.khadka ['Desktop_Pool1.txt']
 sainaj.khan ['Desktop_Pool1.txt']
@@ -231,10 +235,11 @@ manoj.malla ['Desktop_Pool1.txt']
 rajan.chand ['Desktop_Pool2.txt']
 rabi.bhatta ['Desktop_Pool0.txt']
 raju.sundas ['Desktop_Pool2.txt']
-akash.kumar ['Desktop_Pool3.txt']
+akash.kumar ['Desktop_Pool3.txt'] **done for 3
+
 sagar.joshi ['Desktop_Pool2.txt']
 pujan.panta ['Desktop_Pool0.txt']
-abinash.das ['Desktop_Pool0.txt']
+abinash.das ['Desktop_Pool0.txt'] 064
 bijay.budha ['Desktop_Pool0.txt']
 bharat.lama ['Desktop_Pool2.txt']
 anita.lama ['Desktop_Pool2.txt']
@@ -251,5 +256,28 @@ om.khadka ['Desktop_Pool0.txt']
 sunny.sah ['Desktop_Pool1.txt']
 maya.pun ['Desktop_Pool1.txt']
 uddav.kc ['Desktop_Pool0.txt']
-amar.kc ['Desktop_Pool0.txt']
+amar.kc ['Desktop_Pool0.txt'] #done for pool 0
+
+
+desktop pool 3, *001, *002, *047
+
+
+************************************
+pool 3 
+, 012, 013, 014, 019, 027, 035, 036
+038, 039, 
+
+Pool 2
+
+Pool 1
+
+Pool 0
+
+
+********************************************
+
+password@123
+
+034: sanjay.pujari provided to puja.tiwari.
+
 
