@@ -1,0 +1,17 @@
+iptables-save > /home/sujant/iptables-$(date +%Y-%m-%d);
+iptables -I INPUT 3 -s 10.12.10.0/24 -p tcp --dport 9102 -j ACCEPT -m comment --comment "bacula-dir";
+
+iptables -I INPUT 3 -s 202.79.36.0/24 -p tcp --dport 22 -j ACCEPT;
+
+
+
+
+tacacs
+ovtacacs
+nokia-tacacs
+dtacacs
+
+
+lamahi@#11
+
+lmhiov@#12

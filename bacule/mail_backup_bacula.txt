@@ -1,0 +1,24 @@
+mailer
+
+fileset
+/var/www
+/backup
+
+
+iptables-save > /home/sujant/iptables-$(date +%Y-%m-%d);
+iptables -I INPUT 3 -s 202.79.36.170/24 -p tcp --dport 22 -j ACCEPT -m comment --comment "bacula ansible controller";
+iptables -I INPUT 4 -s 10.12.10.0/24 -p tcp --dport 9102 -j ACCEPT -m comment --comment "bacula";
+
+
+iptables -I OUTPUT 3 -d 10.12.10.0/24 -p tcp --dport 9101 -j ACCEPT -m comment --comment "to-bacula-dir";
+iptables -I OUTPUT 3 -d 202.79.38.59 -p tcp --dport 9103 -j ACCEPT -m comment --comment "to-bck-chdc-01";
+
+ip route > /home/sujant/ip_route_$(date +%Y-%m-%d);
+ip route add 10.12.10.0/24 via 10.21.7.1 dev eth0;
+
+@ director:
+# ./add_configs_to_bacula_dir.sh mailer mailer 23:00 /var/www /backup
+
+#cant restart services cant test services.
+
+pushpa.khatri

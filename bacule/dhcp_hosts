@@ -1,0 +1,19 @@
+dhcp-htda-01 		10.1.252.200	Edit
+dhcp-dhbi-01 		10.1.253.254	Edit
+dhcp-stb-01 		139.5.68.77	Edit
+dhcp-stb-02 		202.166.193.76	Edit
+dhcp-dhub-01 		202.79.40.115	Edit
+dhcp-awt-01 		202.79.40.116	Edit
+dhcp-btwl-01 		202.79.53.249	Edit
+
+
+dhcp-htda-01 
+dhcp-dhbi-01  
+dhcp-stb-02 
+dhcp-dhub-01 
+dhcp-awt-01 
+dhcp-awt-01 
+dhcp-lknt-01
+
+
+watch -n1 'iptables -nvL INPUT --line | egrep "10.12.10.0|202.79.38.59"'

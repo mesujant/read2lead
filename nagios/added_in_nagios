@@ -1,0 +1,12 @@
+202ads-delivary:202.79.32.112:vm
+api-payment-staging:10.12.7.218:api , cant find snmpd directory
+api-payment-proxy:202.166.193.112:api , snmpwalk-> no response
+canvas:172.28.255.171:vm
+hosted-pbx:202.166.193.101:pbx
+ldap-otp:172.28.255.213:
+mirror-edge.geniustv:139.5.70.85, snmpwalk-> no response
+ctevt-vps:202.166.193.245 ,cant find snmpd directory
+
+ctevt-vps:202.166.193.239 ,cant find snmpd directory
+
+

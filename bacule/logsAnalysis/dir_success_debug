@@ -1,0 +1,159 @@
+bacula-dir: dird.c:300-0 Debug level = 100
+bacula-dir: address_conf.c:289-0 Initaddr 0.0.0.0:9101 
+bacula-dir: dird_conf.c:2212-0 Got name=CactiStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=CactiStorageMonthly
+bacula-dir: dird_conf.c:2212-0 Got name=CactiStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=CactiStorageWeekly
+bacula-dir: dird_conf.c:2212-0 Got name=CactiStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=CactiStorageDaily
+bacula-dir: dird_conf.c:2212-0 Got name=TestStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TestStorageWeekly
+bacula-dir: dird_conf.c:2212-0 Got name=TestStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TestStorageMonthly
+bacula-dir: dird_conf.c:2212-0 Got name=TestStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TestStorageDaily
+bacula-dir: dird_conf.c:2212-0 Got name=NagiosStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=NagiosStorageDaily
+bacula-dir: dird_conf.c:2212-0 Got name=NagiosStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=NagiosStorageWeekly
+bacula-dir: dird_conf.c:2212-0 Got name=NagiosStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=NagiosStorageMonthly
+bacula-dir: dird_conf.c:2212-0 Got name=CatalogStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=CatalogStorageWeekly
+bacula-dir: dird_conf.c:2212-0 Got name=CatalogStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=CatalogStorageMonthly
+bacula-dir: dird_conf.c:2212-0 Got name=CatalogStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=CatalogStorageDaily
+bacula-dir: dird_conf.c:2212-0 Got name=DhcpStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=DhcpStorageWeekly
+bacula-dir: dird_conf.c:2212-0 Got name=DhcpStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=DhcpStorageMonthly
+bacula-dir: dird_conf.c:2212-0 Got name=DhcpStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=DhcpStorageDaily
+bacula-dir: dird_conf.c:2212-0 Got name=TelegrafStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TelegrafStorageWeekly
+bacula-dir: dird_conf.c:2212-0 Got name=TelegrafStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TelegrafStorageMonthly
+bacula-dir: dird_conf.c:2212-0 Got name=TelegrafStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TelegrafStorageDaily
+bacula-dir: dird_conf.c:2212-0 Got name=TemplateStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TemplateStorageWeekly
+bacula-dir: dird_conf.c:2212-0 Got name=TemplateStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TemplateStorageMonthly
+bacula-dir: dird_conf.c:2212-0 Got name=TemplateStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TemplateStorageDaily
+bacula-dir: dird_conf.c:2212-0 Got name=DnsStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=DnsStorageMonthly
+bacula-dir: dird_conf.c:2212-0 Got name=DnsStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=DnsStorageWeekly
+bacula-dir: dird_conf.c:2212-0 Got name=DnsStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=DnsStorageDaily
+bacula-dir: dird_conf.c:2212-0 Got name=IntAppStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=IntAppStorageDaily
+bacula-dir: dird_conf.c:2212-0 Got name=IntAppStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=IntAppStorageWeekly
+bacula-dir: dird_conf.c:2212-0 Got name=IntAppStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=IntAppStorageMonthly
+bacula-dir: bpipe.c:329-0 Wait for 12281 opt=0
+bacula-dir: bpipe.c:337-0 Got break wpid=12281 status=0 ERR=none
+bacula-dir: bpipe.c:358-0 child status=0
+bacula-dir: bpipe.c:373-0 returning stat=0,0
+bacula-dir: dird_conf.c:2212-0 Got name=CactiStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=CactiStorageMonthly
+bacula-dir: dird_conf.c:2245-0 Store CactiStorageMonthly value=cc52f8
+bacula-dir: dird_conf.c:2212-0 Got name=CactiStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=CactiStorageWeekly
+bacula-dir: dird_conf.c:2245-0 Store CactiStorageWeekly value=cc5e58
+bacula-dir: dird_conf.c:2480-0 runscript cmd=/usr/admin/scripts/cacti_backup_bacula.sh type=|
+bacula-dir: dird_conf.c:2212-0 Got name=CactiStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=CactiStorageDaily
+bacula-dir: dird_conf.c:2245-0 Store CactiStorageDaily value=cc9c78
+bacula-dir: dird_conf.c:2212-0 Got name=TestStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TestStorageWeekly
+bacula-dir: dird_conf.c:2245-0 Store TestStorageWeekly value=ccf388
+bacula-dir: dird_conf.c:2212-0 Got name=TestStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TestStorageMonthly
+bacula-dir: dird_conf.c:2245-0 Store TestStorageMonthly value=cd1fc8
+bacula-dir: dird_conf.c:2212-0 Got name=TestStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TestStorageDaily
+bacula-dir: dird_conf.c:2245-0 Store TestStorageDaily value=cd3ef8
+bacula-dir: dird_conf.c:2480-0 runscript cmd=/usr/local/scripts/nagios_backup_bacula.sh type=|
+bacula-dir: dird_conf.c:2212-0 Got name=NagiosStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=NagiosStorageDaily
+bacula-dir: dird_conf.c:2245-0 Store NagiosStorageDaily value=cd7cd8
+bacula-dir: dird_conf.c:2212-0 Got name=NagiosStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=NagiosStorageWeekly
+bacula-dir: dird_conf.c:2245-0 Store NagiosStorageWeekly value=cd8848
+bacula-dir: dird_conf.c:2212-0 Got name=NagiosStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=NagiosStorageMonthly
+bacula-dir: dird_conf.c:2245-0 Store NagiosStorageMonthly value=cd93b8
+bacula-dir: dird_conf.c:2212-0 Got name=CatalogStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=CatalogStorageWeekly
+bacula-dir: dird_conf.c:2245-0 Store CatalogStorageWeekly value=cd9f58
+bacula-dir: dird_conf.c:2212-0 Got name=CatalogStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=CatalogStorageMonthly
+bacula-dir: dird_conf.c:2245-0 Store CatalogStorageMonthly value=ce4198
+bacula-dir: dird_conf.c:2212-0 Got name=CatalogStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=CatalogStorageDaily
+bacula-dir: dird_conf.c:2245-0 Store CatalogStorageDaily value=ce5208
+bacula-dir: dird_conf.c:2212-0 Got name=DhcpStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=DhcpStorageWeekly
+bacula-dir: dird_conf.c:2245-0 Store DhcpStorageWeekly value=ce6c08
+bacula-dir: dird_conf.c:2212-0 Got name=DhcpStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=DhcpStorageMonthly
+bacula-dir: dird_conf.c:2245-0 Store DhcpStorageMonthly value=ce7758
+bacula-dir: dird_conf.c:2212-0 Got name=DhcpStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=DhcpStorageDaily
+bacula-dir: dird_conf.c:2245-0 Store DhcpStorageDaily value=ced3a8
+bacula-dir: dird_conf.c:2212-0 Got name=TelegrafStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TelegrafStorageWeekly
+bacula-dir: dird_conf.c:2245-0 Store TelegrafStorageWeekly value=cedf08
+bacula-dir: dird_conf.c:2212-0 Got name=TelegrafStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TelegrafStorageMonthly
+bacula-dir: dird_conf.c:2245-0 Store TelegrafStorageMonthly value=ceea78
+bacula-dir: dird_conf.c:2212-0 Got name=TelegrafStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TelegrafStorageDaily
+bacula-dir: dird_conf.c:2245-0 Store TelegrafStorageDaily value=cefb98
+bacula-dir: dird_conf.c:2212-0 Got name=TemplateStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TemplateStorageWeekly
+bacula-dir: dird_conf.c:2245-0 Store TemplateStorageWeekly value=cf06f8
+bacula-dir: dird_conf.c:2212-0 Got name=TemplateStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TemplateStorageMonthly
+bacula-dir: dird_conf.c:2245-0 Store TemplateStorageMonthly value=cf8cb8
+bacula-dir: dird_conf.c:2212-0 Got name=TemplateStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=TemplateStorageDaily
+bacula-dir: dird_conf.c:2245-0 Store TemplateStorageDaily value=cfab58
+bacula-dir: dird_conf.c:2212-0 Got name=DnsStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=DnsStorageMonthly
+bacula-dir: dird_conf.c:2245-0 Store DnsStorageMonthly value=cfd3f8
+bacula-dir: dird_conf.c:2212-0 Got name=DnsStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=DnsStorageWeekly
+bacula-dir: dird_conf.c:2245-0 Store DnsStorageWeekly value=cfdf38
+bacula-dir: dird_conf.c:2212-0 Got name=DnsStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=DnsStorageDaily
+bacula-dir: dird_conf.c:2245-0 Store DnsStorageDaily value=d01ce8
+bacula-dir: dird_conf.c:2480-0 runscript cmd=/opt/bacula/etc/master_bacukup_bacula.sh type=|
+bacula-dir: dird_conf.c:2212-0 Got name=IntAppStorageDaily
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=IntAppStorageDaily
+bacula-dir: dird_conf.c:2245-0 Store IntAppStorageDaily value=d04438
+bacula-dir: dird_conf.c:2212-0 Got name=IntAppStorageWeekly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=IntAppStorageWeekly
+bacula-dir: dird_conf.c:2245-0 Store IntAppStorageWeekly value=d04fa8
+bacula-dir: dird_conf.c:2212-0 Got name=IntAppStorageMonthly
+bacula-dir: dird_conf.c:2231-0 Item=autochanger got value=IntAppStorageMonthly
+bacula-dir: dird_conf.c:2245-0 Store IntAppStorageMonthly value=d05b18
+bacula-dir: bpipe.c:329-0 Wait for 12356 opt=0
+bacula-dir: bpipe.c:337-0 Got break wpid=12356 status=0 ERR=none
+bacula-dir: bpipe.c:358-0 child status=0
+bacula-dir: bpipe.c:373-0 returning stat=0,0
+bacula-dir: jcr.c:131-0 read_last_jobs seek to 192
+bacula-dir: jcr.c:138-0 Read num_items=10
+bacula-dir: dir_plugins.c:151-0 Load Director plugins
+bacula-dir: dir_plugins.c:153-0 No Director plugin directory!
+bacula18-dir: bnet_server.c:90-0 Addresses 172.28.255.18:9101 
+bacula18-dir: job.c:1825-0 wstorage=CactiStorageDaily
+bacula18-dir: job.c:1834-0 wstore=CactiStorageDaily where=Job resource
+bacula18-dir: job.c:1486-0 JobId=0 created Job=*JobMonitor*.2022-03-20_21.57.00_01
+bacula18-dir: Warning: Cannot bind port 9101: ERR=Address already in use: Retrying ...
+bacula18-dir: events.c:48-0 Events: code=DD0001 daemon=bacula18-dir ref=0x238d type=daemon source=*Director* text=Director startup
+bacula18-dir: bnet_server.c:130-0 Cannot bind port 9101: ERR=Address already in use: Retrying ...

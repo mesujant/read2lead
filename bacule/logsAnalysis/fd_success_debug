@@ -1,0 +1,57 @@
+bacula-fd: address_conf.c:289-0 Initaddr 0.0.0.0:9102 
+test-18-fd: jcr.c:131-0 read_last_jobs seek to 192
+test-18-fd: jcr.c:138-0 Read num_items=10
+test-18-fd: plugins.c:97-0 load_plugins
+test-18-fd: plugins.c:136-0 Found plugin: name=bpipe-fd.so len=11
+test-18-fd: fd_plugins.c:1596-0 is_plugin_compatible called
+test-18-fd: fd_plugins.c:1582-0 Loaded plugin: bpipe-fd.so
+test-18-fd: events.c:48-0 Events: code=FD0001 daemon=test-18-fd ref=0x238e type=daemon source=*Daemon* text=Filed startup
+test-18-fd: filed.c:295-0 filed: listening on port 9102
+test-18-fd: bnet_server.c:90-0 Addresses 172.28.255.18:9102 
+test-18-fd: bsock.c:861-0 socket=4 who=client host=172.28.255.18 port=9102
+test-18-fd: bnet_server.c:235-0 Accept socket=172.28.255.18.9102:172.28.255.18.46142 s=0x215b6b8
+test-18-fd: job.c:352-0 <dird: Hello Director bacula18-dir calling 10002 tlspsk=0
+
+test-18-fd: job.c:375-0 Executing Dir Hello Director bacula18-dir calling 10002 tlspsk=0
+ command.
+test-18-fd: authenticate.c:67-0 authenticate dir: Hello Director bacula18-dir calling 10002 tlspsk=0
+test-18-fd: authenticatebase.cc:365-0 TLSPSK Remote need 0
+test-18-fd: authenticate.c:90-0 *** No FD compression to DIR
+test-18-fd: authenticatebase.cc:335-0 TLSPSK Local need 0
+test-18-fd: cram-md5.c:68-0 send: auth cram-md5 challenge <1655356207.1647792741@test-18-fd> ssl=0
+test-18-fd: cram-md5.c:132-0 cram-get received: auth cram-md5 <1358853298.1647792741@bacula18-dir> ssl=0
+test-18-fd: cram-md5.c:156-0 sending resp to challenge: nVdfhz/v//8d24/HFR/ktA
+test-18-fd: events.c:48-0 Events: code=FC0002 daemon=test-18-fd ref=0x7f5de400b088 type=connection source=bacula18-dir text=Director connection
+test-18-fd: job.c:352-0 <dird: JobId=0 Job=-Console-.2022-03-20_21.57.08_35 SDid=1 SDtime=1647792609 Authorization=FJHL-CACH-BCHC-DGPA-ANBG-EKAE-FKGP-LGII
+
+test-18-fd: job.c:375-0 Executing Dir JobId=0 Job=-Console-.2022-03-20_21.57.08_35 SDid=1 SDtime=1647792609 Authorization=FJHL-CACH-BCHC-DGPA-ANBG-EKAE-FKGP-LGII
+ command.
+test-18-fd: fd_plugins.c:1666-0 Instantiate plugin_ctx=7f5de400c4c8 JobId=0
+test-18-fd: fd_plugins.c:251-0 plugin_ctx=7f5de400c4c8 JobId=0
+test-18-fd: fd_plugins.c:144-0 name=<NULL> len=0 plugin=bpipe-fd.so plen=5
+test-18-fd: job.c:352-0 <dird: storage address=172.28.255.17 port=9103 ssl=0
+
+test-18-fd: job.c:375-0 Executing Dir storage address=172.28.255.17 port=9103 ssl=0
+ command.
+test-18-fd: job.c:2670-0 StorageCmd: storage address=172.28.255.17 port=9103 ssl=0
+test-18-fd: bsockcore.c:356-0 Current 172.28.255.17:9103 All 172.28.255.17:9103 
+test-18-fd: bsockcore.c:285-0 who=Storage daemon host=172.28.255.17 port=9103
+test-18-fd: bsockcore.c:473-0 OK connected to server  Storage daemon 172.28.255.17:9103. socket=172.28.255.18.55852:172.28.255.17.9103 s=0x7f5de400c7e8
+test-18-fd: authenticatebase.cc:335-0 TLSPSK Local need 0
+test-18-fd: hello.c:141-0 Send to SD: Hello Bacula SD: Start Job -Console-.2022-03-20_21.57.08_35 14 tlspsk=0
+
+test-18-fd: cram-md5.c:132-0 cram-get received: auth cram-md5 <9008176.1647792741@bacula-sd> ssl=0
+test-18-fd: cram-md5.c:156-0 sending resp to challenge: hAIIX/+m4H/vFk/SS51bvC
+test-18-fd: cram-md5.c:75-0 send: auth cram-md5 challenge <1692005510.1647792741@test-18-fd> ssl=0
+test-18-fd: cram-md5.c:94-0 Authenticate OK p/gFoDsED5guH558sVI+9B
+test-18-fd: job.c:352-0 <dird: testnetwork bytes=52428800 rtt=10
+
+test-18-fd: job.c:375-0 Executing Dir testnetwork bytes=52428800 rtt=10
+ command.
+test-18-fd: fd_plugins.c:251-0 plugin_ctx=7f5de400c4c8 JobId=0
+test-18-fd: fd_plugins.c:144-0 name=<NULL> len=0 plugin=bpipe-fd.so plen=5
+test-18-fd: events.c:48-0 Events: code=FC0001 daemon=test-18-fd ref=0x7f5de400b088 type=connection source=bacula18-dir text=Director disconnection
+test-18-fd: job.c:507-0 Calling term_find_files
+test-18-fd: job.c:510-0 Done with term_find_files
+test-18-fd: fd_plugins.c:1701-0 Free instance plugin_ctx=7f5de400c4c8 JobId=0
+test-18-fd: job.c:513-0 Done with free_jcr

@@ -6,6 +6,9 @@ mandira.katwal horizon_users_from_pool_0 = 041
 sinora.parajuli horizon_users_from_pool_0 = 053
 nistha.karki horizon_users_from_pool_0
 pabita.magar horizon_users_from_pool_0 =038
+sagar.adhikari
+malati.chaudhary : 39
+
 
 
 sushma.manandhar horizon_users_from_pool_0
@@ -26,11 +29,14 @@ anjila.gurung horizon_users_from_pool_1  : 050
 sarmila.mahato horizon_users_from_pool_1 : 061
 amit.suwal horizon_users_from_pool_1     : 002
 binita.sapkota horizon_users_from_pool_1 : 005
-taushif.ansari horizon_users_from_pool_1
-anita.adhikari horizon_users_from_pool_1
+
+
+taushif.ansari horizon_users_from_pool_1 :026
+
+anita.adhikari horizon_users_from_pool_1 : 017
 shristi.shakya2 horizon_users_from_pool_1
-sayal.khadka horizon_users_from_pool_1
-sarita.adhikari3 horizon_users_from_pool_1
+sayal.khadka horizon_users_from_pool_1   : 024
+sarita.adhikari3 horizon_users_from_pool_1 : 072
 shukralaxmi.shrestha horizon_users_from_pool_1
 manoj.malla horizon_users_from_pool_1
 jalendra.yadav horizon_users_from_pool_1
@@ -78,9 +84,10 @@ manita.lamsal horizon_users_from_pool_2
 sushant.khanal horizon_users_from_pool_2
 manju.khadka horizon_users_from_pool_2
 prabeen.gurung horizon_users_from_pool_2
-anita.lama horizon_users_from_pool_2
+anita.lama horizon_users_from_pool_2 : 071
 kc.ranjan horizon_users_from_pool_2
-susmita.tiwari horizon_users_from_pool_2
+susmita.tiwari horizon_users_from_pool_2 : 
+
 kalash.horizon2 horizon_users_from_pool_3
 animesh.maharjan horizon_users_from_pool_3
 deepak.thapa horizon_users_from_pool_3

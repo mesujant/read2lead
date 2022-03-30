@@ -1,0 +1,164 @@
+api-ebill 
+View Service Details For This Host
+UP	03-15-2022 12:15:14	455d 7h 16m 4s	PING OK - Packet loss = 0%, RTA = 0.55 ms 
+api-ext 
+This host has 1 comment associated with it	View Service Details For This Host
+UP	03-15-2022 12:17:06	455d 7h 15m 58s	PING OK - Packet loss = 0%, RTA = 1.00 ms 
+api-ntasync 
+View Service Details For This Host
+UP	03-15-2022 12:16:10	4d 18h 34m 27s	PING OK - Packet loss = 0%, RTA = 0.99 ms 
+api-payment-proxy 
+View Service Details For This Host
+UP	03-15-2022 12:16:13	3d 23h 50m 48s	PING OK - Packet loss = 0%, RTA = 1.74 ms 
+api-payment-staging 
+View Service Details For This Host
+UP	03-15-2022 12:17:00	1d 23h 17m 37s	PING OK - Packet loss = 0%, RTA = 1.07 ms 
+api-payment-staging-proxy 
+View Service Details For This Host
+UP	03-15-2022 12:15:21	1d 23h 11m 5s	PING OK - Packet loss = 0%, RTA = 3.28 ms 
+appsdb-01.wlink.com.np 
+View Service Details For This Host
+UP	03-15-2022 12:15:50	71d 0h 17m 1s	PING OK - Packet loss = 0%, RTA = 0.59 ms 
+appsdb-02.wlink.com.np 
+View Service Details For This Host
+UP	03-15-2022 12:16:51	72d 1h 32m 0s	PING OK - Packet loss = 0%, RTA = 0.77 ms 
+appsdb-03.wlink.com.np 
+View Service Details For This Host
+UP	03-15-2022 12:15:58	181d 22h 53m 13s	PING OK - Packet loss = 0%, RTA = 0.44 ms 
+auth-mobileapp 
+View Service Details For This Host
+UP	03-15-2022 12:16:55	252d 0h 57m 10s	PING OK - Packet loss = 0%, RTA = 0.35 ms 
+botman 
+View Service Details For This Host
+UP	03-15-2022 12:16:58	455d 7h 15m 58s	PING OK - Packet loss = 0%, RTA = 2.60 ms 
+canvas-lms 
+View Service Details For This Host
+UP	03-15-2022 12:15:14	1d 23h 48m 2s	PING OK - Packet loss = 0%, RTA = 0.83 ms 
+cust-mobileapp 
+View Service Details For This Host
+UP	03-15-2022 12:15:59	4d 17h 42m 49s	PING OK - Packet loss = 0%, RTA = 0.77 ms 
+devbeehrm 
+View Service Details For This Host
+UP	03-15-2022 12:15:24	1d 23h 5m 1s	PING OK - Packet loss = 0%, RTA = 1.94 ms 
+erp 
+View Service Details For This Host
+UP	03-15-2022 12:15:24	607d 22h 51m 7s	PING OK - Packet loss = 0%, RTA = 0.86 ms 
+esupport1 
+View Service Details For This Host
+UP	03-15-2022 12:15:43	320d 17h 55m 23s	PING OK - Packet loss = 0%, RTA = 0.38 ms 
+esupport2 
+View Service Details For This Host
+UP	03-15-2022 12:15:24	165d 18h 19m 50s	PING OK - Packet loss = 0%, RTA = 0.42 ms 
+ext-api-02 
+View Service Details For This Host
+UP	03-15-2022 12:15:53	4d 18h 23m 0s	PING OK - Packet loss = 0%, RTA = 1.10 ms 
+int-mobileapp 
+View Service Details For This Host
+UP	03-15-2022 12:15:14	455d 7h 16m 4s	PING OK - Packet loss = 0%, RTA = 0.95 ms 
+int-service-01 
+View Service Details For This Host
+UP	03-15-2022 12:15:26	454d 18h 11m 58s	PING OK - Packet loss = 0%, RTA = 1.27 ms 
+int-service-01-proxy 
+View Service Details For This Host
+UP	03-15-2022 12:15:23	5d 1h 46m 0s	PING OK - Packet loss = 0%, RTA = 1.24 ms 
+int-service-02 
+View Service Details For This Host
+UP	03-15-2022 12:15:49	56d 3h 57m 25s	PING OK - Packet loss = 0%, RTA = 0.67 ms 
+int-service-03 
+View Service Details For This Host
+UP	03-15-2022 12:15:44	15d 22h 49m 9s	PING OK - Packet loss = 0%, RTA = 0.44 ms 
+intrawebs-api-ebill 
+View Service Details For This Host
+UP	03-15-2022 12:16:43	455d 7h 16m 3s	PING OK - Packet loss = 0%, RTA = 0.54 ms 
+intrawebs-apps-01.wlink.com.np 
+View Service Details For This Host
+UP	03-15-2022 12:16:09	294d 18h 59m 15s	PING OK - Packet loss = 0%, RTA = 1.07 ms 
+intrawebs-apps-02 
+View Service Details For This Host
+UP	03-15-2022 12:15:23	455d 7h 15m 54s	PING OK - Packet loss = 0%, RTA = 1.43 ms 
+intrawebs-apps-py 
+View Service Details For This Host
+UP	03-15-2022 12:15:52	473d 6h 50m 13s	PING OK - Packet loss = 0%, RTA = 0.67 ms 
+intrawebs-beanstalk 
+View Service Details For This Host
+UP	03-15-2022 12:17:10	105d 15h 11m 44s	PING OK - Packet loss = 0%, RTA = 0.58 ms 
+intrawebs-cron 
+View Service Details For This Host
+UP	03-15-2022 12:16:34	0d 1h 19m 17s	PING OK - Packet loss = 0%, RTA = 0.53 ms 
+intrawebs-cron-new 
+View Service Details For This Host
+UP	03-15-2022 12:16:09	4d 18h 22m 24s	PING OK - Packet loss = 0%, RTA = 0.85 ms 
+intrawebs-elastic-api.wlink.com.np 
+View Service Details For This Host
+UP	03-15-2022 12:16:54	264d 19h 40m 0s	PING OK - Packet loss = 0%, RTA = 0.38 ms 
+intrawebs-int-01 
+View Service Details For This Host
+UP	03-15-2022 12:16:13	162d 17h 55m 56s	PING OK - Packet loss = 0%, RTA = 0.58 ms 
+intrawebs-int-02 
+View Service Details For This Host
+UP	03-15-2022 12:15:36	162d 18h 51m 58s	PING OK - Packet loss = 0%, RTA = 0.99 ms 
+intrawebs-int-04 
+View Service Details For This Host
+UP	03-15-2022 12:15:54	419d 22h 1m 13s	PING OK - Packet loss = 0%, RTA = 0.65 ms 
+intrawebs-int-042 
+View Service Details For This Host
+UP	03-15-2022 12:15:23	403d 22h 56m 28s	PING OK - Packet loss = 0%, RTA = 0.73 ms 
+intrawebs-int-043.wlink.com.np 
+View Service Details For This Host
+UP	03-15-2022 12:16:33	96d 17h 1m 16s	PING OK - Packet loss = 0%, RTA = 0.69 ms 
+intrawebs-int-api-01 
+View Service Details For This Host
+UP	03-15-2022 12:15:47	166d 23h 8m 0s	PING OK - Packet loss = 0%, RTA = 0.51 ms 
+intrawebs-int-api-02 
+View Service Details For This Host
+UP	03-15-2022 12:15:27	8d 23h 1m 13s	PING OK - Packet loss = 0%, RTA = 0.80 ms 
+intrawebs-int-mysql 
+View Service Details For This Host
+UP	03-15-2022 12:17:01	395d 18h 7m 22s	PING OK - Packet loss = 0%, RTA = 0.62 ms 
+intrawebs-int-redis 
+View Service Details For This Host
+UP	03-15-2022 12:16:15	927d 18h 20m 1s	PING OK - Packet loss = 0%, RTA = 0.62 ms 
+intrawebs-lb1 
+View Service Details For This Host
+UP	03-15-2022 12:16:48	4d 18h 6m 56s	PING OK - Packet loss = 0%, RTA = 0.77 ms 
+intrawebs-lb2 
+View Service Details For This Host
+UP	03-15-2022 12:16:31	455d 7h 14m 54s	PING OK - Packet loss = 0%, RTA = 0.79 ms 
+intrawebs-new 
+View Service Details For This Host
+UP	03-15-2022 12:15:48	455d 7h 15m 57s	PING OK - Packet loss = 0%, RTA = 0.79 ms 
+mirror-edge 
+View Service Details For This Host
+UP	03-15-2022 12:16:49	1d 23h 52m 18s	PING OK - Packet loss = 0%, RTA = 0.62 ms 
+nettv-api 
+View Service Details For This Host
+UP	03-15-2022 12:16:44	4d 18h 43m 6s	PING OK - Packet loss = 0%, RTA = 0.78 ms 
+rac-scan-01 
+View Service Details For This Host
+UP	03-15-2022 12:15:23	98d 18h 30m 19s	PING OK - Packet loss = 0%, RTA = 1.30 ms 
+rac-scan-02 
+View Service Details For This Host
+UP	03-15-2022 12:15:57	98d 18h 31m 30s	PING OK - Packet loss = 0%, RTA = 0.39 ms 
+rac-scan-03 
+View Service Details For This Host
+UP	03-15-2022 12:15:20	98d 18h 31m 44s	PING OK - Packet loss = 0%, RTA = 0.62 ms 
+rac1-new 
+View Service Details For This Host
+UP	03-15-2022 12:16:38	98d 18h 31m 58s	PING OK - Packet loss = 0%, RTA = 0.37 ms 
+rac2-new 
+View Service Details For This Host
+UP	03-15-2022 12:15:30	98d 18h 31m 48s	PING OK - Packet loss = 0%, RTA = 0.67 ms 
+rac3-new 
+View Service Details For This Host
+UP	03-15-2022 12:15:43	50d 15h 34m 28s	PING OK - Packet loss = 0%, RTA = 0.46 ms 
+retail-crm-beta 
+View Service Details For This Host
+UP	03-15-2022 12:15:32	4d 18h 23m 0s	PING OK - Packet loss = 0%, RTA = 0.54 ms 
+tt-01 
+View Service Details For This Host
+UP	03-15-2022 12:15:46	94d 0h 42m 14s	PING OK - Packet loss = 0%, RTA = 0.52 ms 
+tt-02 
+View Service Details For This Host
+UP	03-15-2022 12:15:31	412d 15h 16m 8s	PING OK - Packet loss = 0%, RTA = 0.64 ms 
+www2-01.wlink.com.np 
+

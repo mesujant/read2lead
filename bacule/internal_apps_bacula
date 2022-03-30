@@ -1,0 +1,117 @@
+applied firewall rules:
+
+watch -n1 'cat hosts_and_networks | tail -5; echo "#####";cat ports | tail -5; echo "###########";cat /usr/admin/AppliedFirewall/rules/allow.in_tcp_ports_from_hosts | tail -2;'
+
+cp -r /usr/admin/AppliedFirewall /home/sujant/;
+echo 'HOST_BACULA_FLOAT="10.12.10.7"' >> /usr/admin/AppliedFirewall/definitions/hosts_and_networks;
+echo 'HOST_BACULA_DIR="10.12.10.8"'   >> /usr/admin/AppliedFirewall/definitions/hosts_and_networks;
+echo 'HOST_BACULA_DIR_HA="10.12.10.9"' >> /usr/admin/AppliedFirewall/definitions/hosts_and_networks;
+echo 'HOST_BACULA_SD="202.79.37.59"'   >> /usr/admin/AppliedFirewall/definitions/hosts_and_networks;
+echo 'PORT_BACULA_DIR="9102"' >> /usr/admin/AppliedFirewall/definitions/ports;
+echo 'PORT_BACULA_SD="9103"' >> /usr/admin/AppliedFirewall/definitions/ports;
+echo 'IN_BACULA_DIR="BACULA_FLOAT BACULA_DIR BACULA_DIR_HA"'  >> /usr/admin/AppliedFirewall/rules/allow.in_tcp_ports_from_hosts; 
+echo 'IN_BACULA_SD="BACULA_SD"' >> /usr/admin/AppliedFirewall/rules/allow.in_tcp_ports_from_hosts;
+cd /usr/admin/AppliedFirewall;
+./AppliedFirewall reload inbound;
+service iptables save;
+
+
+
+dpkg -r bacula-client bacula-common;
+dpkg --purge bacula-client bacula-common;
+
+iptables-save > /home/sujant/iptables-$(date +%Y-%m-%d);
+iptables -I INPUT 3 -s 10.12.10.0/24 -p tcp --dport 9102 -j ACCEPT -m comment --comment "bacula";
+
+
+
+intrawebs-int-01
+intrawebs-int-02
+intrawebs-int-03
+intrawebs-int-041
+intrawebs-int-042
+
+intrawebs-int-043
+#ip route > /home/sujant/iproute_$(date )
+
+intrawebs-int-api-01
+
+intrawebs-int-api-02
+#ip route add 10.12.10.0/24 via 10.21.7.1 dev eth0
+
+
+
+
+
+#libc6 package not > 2.23
+https://superuser.com/questions/740470/uninstall-libc6-package-by-dpkg
+
+
+www2-intrawebs-apps-01
+www2-intrawebs-apps-02
+int-service-01
+int-service-02
+int-service-03
+
+
+
+
+
+# from nagios-host
+
+api-ebill
+api-ext
+api-ntasync
+api-payment-proxy
+api-payment-staging
+api-payment-staging-proxy
+appsdb-01.wlink.com.np
+appsdb-02.wlink.com.np
+appsdb-03.wlink.com.np
+auth-mobileapp
+botman
+canvas-lms
+cust-mobileapp
+devbeehrm
+erp
+esupport1
+esupport2
+ext-api-02
+int-mobileapp
+int-service-01
+int-service-01-proxy
+int-service-02
+int-service-03
+intrawebs-api-ebill
+intrawebs-apps-01.wlink.com.np
+intrawebs-apps-02
+intrawebs-apps-py
+intrawebs-beanstalk
+intrawebs-cron
+intrawebs-cron-new
+intrawebs-elastic-api.wlink.com.np
+intrawebs-int-01
+intrawebs-int-02
+intrawebs-int-04
+intrawebs-int-042
+intrawebs-int-043.wlink.com.np
+intrawebs-int-api-01
+intrawebs-int-api-02
+intrawebs-int-mysql
+intrawebs-int-redis
+intrawebs-lb1
+intrawebs-lb2
+intrawebs-new
+mirror-edge
+nettv-api
+rac-scan-01
+rac-scan-02
+rac-scan-03
+rac1-new
+rac2-new
+rac3-new
+retail-crm-beta
+tt-01
+tt-02
+www2-01.wlink.com.np
+

@@ -1,0 +1,6 @@
+ 172.28.255.23
+ 
+ win-01
+ C:\Users\Administrator\Desktop\test
+ 
+ ./add_confifgs_bacula_dir.sh windows win-01 20:00 'C:\Users\Administrator\Desktop\test\'

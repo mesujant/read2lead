@@ -1,0 +1,131 @@
+iptables-save > /home/sujant/iptables-$(date +%Y-%m-%d);
+iptables -I INPUT 10 -s 10.12.10.0/24 -p tcp --dport 9102 -j ACCEPT -m comment --comment "bacula-dir";
+
+iptables -I INPUT 10 -s 202.79.38.59 -p tcp --dport 9102 -j ACCEPT -m comment --comment "bck-chdc-01 bacula-sd";
+
+iptables -I OUTPUT 5 -d 202.79.38.59 -p tcp --dport 9103 -j ACCEPT -m comment --comment "bck-chdc-01 bacula-sd";
+
+iptables -I OUTPUT 5 -d 10.12.10.0/24 -p tcp --dport 9101 -j ACCEPT -m comment --comment "bacula-dir";
+
+
+mkdir -p /home/sujant
+chown -R /home/sujant
+
+iptables-save > /home/sujant/iptables-$(date +%Y-%m-%d);
+iptables -I INPUT 3 -s 202.79.36.170 -p tcp --dport 22 -j ACCEPT -m comment --comment "ansible controller for bacula";
+
+
+useradd -G wheel ansible;
+>> $CONFIG_PATH/$1/
+
+ns97:ns98
+/usr/local/unbound/, /usr/admin/
+
+master, ,
+mysql, /etc/named/. /opt/wlink/, /var/www/html/data/dns_admin/, /usr/admin/AppliedFirewalld/
+
+ram, krishna, dns3
+/etc/named/
+/usr/admin/AppliedFirewalld/
+
+cp -r template tacacs;
+cd tacacs;
+sed -e "s/Template/Tacacs/g" daily.conf weekly.conf monthly.conf
+
+function find_schedule {
+
+        config_path=$CONFIG_PATH$1/*
+        recent_time=$( /bin/grep -A2 'Schedule {' $config_path | /bin/grep -i 'run' | /bin/cut -d'=' -f2 | /bin/rev | /bin/cut -d' '  -f1 | /bin/rev | /bin/uniq  | /bin/sort | /bin/tail -1)
+
+        hour=$( echo $recent_time | /bin/cut -d":" -f1 )
+        min=$( echo $recent_time | /bin/cut -d":" -f2 )
+        min_new=$(echo $min + "2" | /bin/bc)
+        #to ensure output in HH:MM format
+        if [[ ${#min_new} == 1 ]]; then
+                min_new="0"$min_new
+        fi
+        new_time=$hour:$min_new
+        echo $new_time
+}
+
+CONFIG_PATH=$(pwd)/
+hosts="ram krishna dns3 master ns97 ns98"
+
+for host in $hosts; do 
+schedule=$(find_schedule dns)
+sed -e "s/master/$host/g" -e "s/7:00/$schedule/g" master.conf; read;read;
+done;
+
+ram.wlink.com.np
+krishna.wlink.com.np
+dns3.wlink.com.np
+master.wlink.com.np
+ns97.wlink.com.np
+ns98.wlink.com.np
+
+cpns2.wlinktech.com.np
+
+
+202.79.32.33
+202.79.32.34
+202.79.32.35
+202.79.32.113
+202.79.32.97
+202.79.32.98
+202.79.32.69
+
+
+buddyguard-01(vip-safenet-kmd01)
+buddyguard-01(p2p-safenet-kmd01)
+buddyguard-02(vip-safenet-kmd03)
+buddyguard-02(p2p-safenet-kmd02)
+buddyguard-02(p2p-safenet-kmd03)
+ns1.wlinktech.com.np
+ns2.wlinktech.com.np
+ns6.wlink.com.np
+ns7.wlink.com.np
+
+
+
+
+202.79.32.165
+202.166.193.2
+202.166.193.73
+202.79.36.37
+202.79.36.36
+202.79.32.69
+202.79.32.69
+202.79.32.68
+202.79.32.68
+
+
+
+
+
+
+1:	ram.wlink.com.np	202.79.32.33	Authoritative	bind	Web	AWT	
+2:	krishna.wlink.com.np	202.79.32.34	Authoritative	bind	Web	AWT	
+3:	dns3.wlink.com.np	202.79.32.35	Authoritative	bind	Web	DHUB	
+4:	 ns97.wlink.com.np	202.79.32.97	Recursive	unbound	Internet	AWT	
+5:	ns98.wlink.com.np	202.79.32.98	Recursive	unbound	Internet	AWT	
+6:	buddyguard-01(vip-safenet-kmd01)	202.79.32.165	Recursive	unbound	Internet	AWT	
+
+
+7.	buddyguard-01(p2p-safenet-kmd01)	202.166.193.2	Recursive	unbound	Internet	AWT	
+
+
+8	buddyguard-02(vip-safenet-kmd03)	202.166.193.73	Recursive	unbound	Internet	DHUB	
+9.	buddyguard-02(p2p-safenet-kmd02)	202.79.36.37	Recursive	unbound	Internet	DHUB	
+10.	buddyguard-02(p2p-safenet-kmd03)	202.79.36.36	 Recursive	unbound	Internet	DHUB	
+11.	
+
+thunderdns-01 
+	139.5.69.101	Recursive	unbound	Internet	AWT	
+12.	
+
+thunderdns-02
+	139.5.69.102	Recursive	unbound	Internet	DHUB	
+13.	ns1.wlinktech.com.np	202.79.32.69	Authoritative (cpanel-00)	bind	Web	AWT	
+14.	ns2.wlinktech.com.np	202.79.32.69	Authoritative (cpanel-00)	bind	Web	AWT	
+15.	ns6.wlink.com.np	202.79.32.68	Authoritative (cpanel-01)	bind	Web	AWT	
+16.	ns7.wlink.com.np	202.79.32.68	Authoritative (cpanel-02)	bind	Web	AWT

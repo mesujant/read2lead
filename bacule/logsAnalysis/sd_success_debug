@@ -1,0 +1,263 @@
+bacula-sd: address_conf.c:289-0 Initaddr 0.0.0.0:9103 
+bacula-sd: bpipe.c:329-0 Wait for 22751 opt=0
+bacula-sd: bpipe.c:337-0 Got break wpid=22751 status=0 ERR=none
+bacula-sd: bpipe.c:358-0 child status=0
+bacula-sd: bpipe.c:373-0 returning stat=0,0
+bacula-sd: bpipe.c:329-0 Wait for 22760 opt=0
+bacula-sd: bpipe.c:337-0 Got break wpid=22760 status=0 ERR=none
+bacula-sd: bpipe.c:358-0 child status=0
+bacula-sd: bpipe.c:373-0 returning stat=0,0
+bacula-sd: jcr.c:131-0 read_last_jobs seek to 192
+bacula-sd: jcr.c:138-0 Read num_items=0
+bacula-sd: plugins.c:97-0 load_plugins
+bacula-sd: plugins.c:133-0 Rejected plugin: want=*-sd.so got name=bpipe-fd.so len=11
+bacula-sd: plugins.c:121-0 Failed to find any plugins in /opt/bacula/plugins
+bacula-sd: stored.c:704-0 calling init_dev DefaultDeviceDailyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc00b888
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/default/daily
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc00b888 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done DefaultDeviceDailyDev1 (0x7f16fc00b888)
+bacula-sd: acquire.c:671-0 Attach 0xfc00d1b8 to dev "DefaultDeviceDailyDev1" (/bacula/backup/default/daily)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization DefaultDeviceDailyDev1
+bacula-sd: stored.c:704-0 calling init_dev DefaultDeviceWeeklyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc00d1b8
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/default/weekly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc00d1b8 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done DefaultDeviceWeeklyDev1 (0x7f16fc00d1b8)
+bacula-sd: acquire.c:671-0 Attach 0xfc00ef48 to dev "DefaultDeviceWeeklyDev1" (/bacula/backup/default/weekly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization DefaultDeviceWeeklyDev1
+bacula-sd: stored.c:704-0 calling init_dev DefaultDeviceMonthlyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc00ef48
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/default/monthly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc00ef48 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done DefaultDeviceMonthlyDev1 (0x7f16fc00ef48)
+bacula-sd: acquire.c:671-0 Attach 0xfc010ce8 to dev "DefaultDeviceMonthlyDev1" (/bacula/backup/default/monthly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization DefaultDeviceMonthlyDev1
+bacula-sd: stored.c:704-0 calling init_dev CactiDeviceDailyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc010ce8
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/cacti/daily
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc010ce8 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done CactiDeviceDailyDev1 (0x7f16fc010ce8)
+bacula-sd: acquire.c:671-0 Attach 0xfc012a18 to dev "CactiDeviceDailyDev1" (/bacula/backup/cacti/daily)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization CactiDeviceDailyDev1
+bacula-sd: stored.c:704-0 calling init_dev CactiDeviceWeeklyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc012a18
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/cacti/weekly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc012a18 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done CactiDeviceWeeklyDev1 (0x7f16fc012a18)
+bacula-sd: acquire.c:671-0 Attach 0xfc014788 to dev "CactiDeviceWeeklyDev1" (/bacula/backup/cacti/weekly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization CactiDeviceWeeklyDev1
+bacula-sd: stored.c:704-0 calling init_dev CactiDeviceMonthlyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc014788
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/cacti/monthly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc014788 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done CactiDeviceMonthlyDev1 (0x7f16fc014788)
+bacula-sd: acquire.c:671-0 Attach 0xfc016508 to dev "CactiDeviceMonthlyDev1" (/bacula/backup/cacti/monthly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization CactiDeviceMonthlyDev1
+bacula-sd: stored.c:704-0 calling init_dev CatalogDeviceDailyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc016508
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/BaculaCatalog/daily
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc016508 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done CatalogDeviceDailyDev1 (0x7f16fc016508)
+bacula-sd: acquire.c:671-0 Attach 0xfc018298 to dev "CatalogDeviceDailyDev1" (/bacula/backup/BaculaCatalog/daily)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization CatalogDeviceDailyDev1
+bacula-sd: stored.c:704-0 calling init_dev CatalogDeviceWeeklyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc018298
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/BaculaCatalog/weekly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc018298 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done CatalogDeviceWeeklyDev1 (0x7f16fc018298)
+bacula-sd: acquire.c:671-0 Attach 0xfc01a028 to dev "CatalogDeviceWeeklyDev1" (/bacula/backup/BaculaCatalog/weekly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization CatalogDeviceWeeklyDev1
+bacula-sd: stored.c:704-0 calling init_dev CatalogDeviceMonthlyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc01a028
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/BaculaCatalog/monthly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc01a028 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done CatalogDeviceMonthlyDev1 (0x7f16fc01a028)
+bacula-sd: acquire.c:671-0 Attach 0xfc01bdc8 to dev "CatalogDeviceMonthlyDev1" (/bacula/backup/BaculaCatalog/monthly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization CatalogDeviceMonthlyDev1
+bacula-sd: stored.c:704-0 calling init_dev NagiosDeviceDailyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc01bdc8
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/nagios/daily
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc01bdc8 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done NagiosDeviceDailyDev1 (0x7f16fc01bdc8)
+bacula-sd: acquire.c:671-0 Attach 0xfc01dee8 to dev "NagiosDeviceDailyDev1" (/bacula/backup/nagios/daily)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization NagiosDeviceDailyDev1
+bacula-sd: stored.c:704-0 calling init_dev NagiosDeviceWeeklyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc01dee8
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/nagios/weekly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc01dee8 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done NagiosDeviceWeeklyDev1 (0x7f16fc01dee8)
+bacula-sd: acquire.c:671-0 Attach 0xfc01fcb8 to dev "NagiosDeviceWeeklyDev1" (/bacula/backup/nagios/weekly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization NagiosDeviceWeeklyDev1
+bacula-sd: stored.c:704-0 calling init_dev NagiosDeviceMonthlyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc01fcb8
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/nagios/monthly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc01fcb8 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done NagiosDeviceMonthlyDev1 (0x7f16fc01fcb8)
+bacula-sd: acquire.c:671-0 Attach 0xfc021ac8 to dev "NagiosDeviceMonthlyDev1" (/bacula/backup/nagios/monthly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization NagiosDeviceMonthlyDev1
+bacula-sd: stored.c:704-0 calling init_dev DhcpDeviceDailyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc021ac8
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/dhcp/daily
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc021ac8 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done DhcpDeviceDailyDev1 (0x7f16fc021ac8)
+bacula-sd: acquire.c:671-0 Attach 0xfc0238b8 to dev "DhcpDeviceDailyDev1" (/bacula/backup/dhcp/daily)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization DhcpDeviceDailyDev1
+bacula-sd: stored.c:704-0 calling init_dev DhcpDeviceWeeklyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc0238b8
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/dhcp/weekly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc0238b8 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done DhcpDeviceWeeklyDev1 (0x7f16fc0238b8)
+bacula-sd: acquire.c:671-0 Attach 0xfc0257c8 to dev "DhcpDeviceWeeklyDev1" (/bacula/backup/dhcp/weekly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization DhcpDeviceWeeklyDev1
+bacula-sd: stored.c:704-0 calling init_dev DhcpDeviceMonthlyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc0257c8
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/dhcp/monthly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc0257c8 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done DhcpDeviceMonthlyDev1 (0x7f16fc0257c8)
+bacula-sd: acquire.c:671-0 Attach 0xfc027768 to dev "DhcpDeviceMonthlyDev1" (/bacula/backup/dhcp/monthly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization DhcpDeviceMonthlyDev1
+bacula-sd: stored.c:704-0 calling init_dev TemplateDeviceDailyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc027768
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/default/daily
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc027768 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done TemplateDeviceDailyDev1 (0x7f16fc027768)
+bacula-sd: acquire.c:671-0 Attach 0xfc029168 to dev "TemplateDeviceDailyDev1" (/bacula/backup/default/daily)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization TemplateDeviceDailyDev1
+bacula-sd: stored.c:704-0 calling init_dev TemplateDeviceWeeklyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc029168
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/default/weekly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc029168 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done TemplateDeviceWeeklyDev1 (0x7f16fc029168)
+bacula-sd: acquire.c:671-0 Attach 0xfc02af58 to dev "TemplateDeviceWeeklyDev1" (/bacula/backup/default/weekly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization TemplateDeviceWeeklyDev1
+bacula-sd: stored.c:704-0 calling init_dev TemplateDeviceMonthlyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc02af58
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/bacula/backup/default/monthly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc02af58 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done TemplateDeviceMonthlyDev1 (0x7f16fc02af58)
+bacula-sd: acquire.c:671-0 Attach 0xfc02d9d8 to dev "TemplateDeviceMonthlyDev1" (/bacula/backup/default/monthly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization TemplateDeviceMonthlyDev1
+bacula-sd: stored.c:704-0 calling init_dev DnsDeviceDailyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc02d9d8
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/backup/dns/daily
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc02d9d8 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done DnsDeviceDailyDev1 (0x7f16fc02d9d8)
+bacula-sd: acquire.c:671-0 Attach 0xfc02f1e8 to dev "DnsDeviceDailyDev1" (/backup/dns/daily)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization DnsDeviceDailyDev1
+bacula-sd: stored.c:704-0 calling init_dev DnsDeviceWeeklyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc02f1e8
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/backup/dns/weekly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc02f1e8 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done DnsDeviceWeeklyDev1 (0x7f16fc02f1e8)
+bacula-sd: acquire.c:671-0 Attach 0xfc030f58 to dev "DnsDeviceWeeklyDev1" (/backup/dns/weekly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization DnsDeviceWeeklyDev1
+bacula-sd: stored.c:704-0 calling init_dev DnsDeviceMonthlyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc030f58
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/backup/dns/monthly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc030f58 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done DnsDeviceMonthlyDev1 (0x7f16fc030f58)
+bacula-sd: acquire.c:671-0 Attach 0xfc032d08 to dev "DnsDeviceMonthlyDev1" (/backup/dns/monthly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization DnsDeviceMonthlyDev1
+bacula-sd: stored.c:704-0 calling init_dev IntAppDeviceDailyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc032d08
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/backup/intApp/daily
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc032d08 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done IntAppDeviceDailyDev1 (0x7f16fc032d08)
+bacula-sd: acquire.c:671-0 Attach 0xfc034c68 to dev "IntAppDeviceDailyDev1" (/backup/intApp/daily)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization IntAppDeviceDailyDev1
+bacula-sd: stored.c:704-0 calling init_dev IntAppDeviceWeeklyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc034c68
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/backup/intApp/weekly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc034c68 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done IntAppDeviceWeeklyDev1 (0x7f16fc034c68)
+bacula-sd: acquire.c:671-0 Attach 0xfc036bb8 to dev "IntAppDeviceWeeklyDev1" (/backup/intApp/weekly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization IntAppDeviceWeeklyDev1
+bacula-sd: stored.c:704-0 calling init_dev IntAppDeviceMonthlyDev1
+bacula-sd: init_dev.c:177-0 Num drivers=15
+bacula-sd: init_dev.c:190-0 loadable=0 type=1 loaded=1 name=file handle=0
+bacula-sd: init_dev.c:235-0 init_dev allocated: 7f16fc036bb8
+bacula-sd: init_dev.c:437-0 init_dev: tape=0 dev_name=/backup/intApp/monthly
+bacula-sd: dev.c:1143-0 DEVICE::register_metrics called. 0x7f16fc036bb8 collector=0x6e3348
+bacula-sd: stored.c:706-0 SD init done IntAppDeviceMonthlyDev1 (0x7f16fc036bb8)
+bacula-sd: acquire.c:671-0 Attach 0xfc038af8 to dev "IntAppDeviceMonthlyDev1" (/backup/intApp/monthly)
+bacula-sd: events.c:48-0 Events: code=SD0002 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Device initialization IntAppDeviceMonthlyDev1
+bacula-sd: events.c:48-0 Events: code=SD0001 daemon=bacula-sd ref=0x238f type=daemon source=*Daemon* text=Storage startup
+bacula-sd: bnet_server.c:90-0 Addresses 172.28.255.17:9103 
+bacula-sd: bsock.c:861-0 socket=4 who=client host=172.28.255.18 port=9103
+bacula-sd: bnet_server.c:235-0 Accept socket=172.28.255.17.9103:172.28.255.18.55848 s=0x6e33c8
+bacula-sd: dircmd.c:196-0 Got a DIR connection at 20-Mar-2022 12:12:21
+bacula-sd: authenticatebase.cc:365-0 TLSPSK Remote need 0
+bacula-sd: authenticatebase.cc:335-0 TLSPSK Local need 0
+bacula-sd: cram-md5.c:68-0 send: auth cram-md5 challenge <726971839.1647792741@bacula-sd> ssl=0
+bacula-sd: cram-md5.c:132-0 cram-get received: auth cram-md5 <904500049.1647792741@bacula18-dir> ssl=0
+bacula-sd: cram-md5.c:156-0 sending resp to challenge: 69R1A7/+R6+j/ntuuEFNCA
+bacula-sd: dircmd.c:227-0 Message channel init completed.
+bacula-sd: job.c:78-0 <dird: JobId=0 job=-Console-.2022-03-20_21.57.08_35 job_name=cacti-srv-01-daily client_name=test-18 type=85 level=32 FileSet=CactiSet NoAttr=0 SpoolAttr=1 FileSetMD5=R75HIENQi/+GRRRZw9QK1B SpoolData=0 WritePartAfterJob=1 PreferMountedVols=1 SpoolSize=0 rerunning=0 VolSessionId=0 VolSessionTime=0 sd_client=0 Authorization=dummy
+bacula-sd: job.c:100-0 rerunning=0 VolSesId=0 VolSesTime=0
+bacula-sd: events.c:48-0 Events: code=SJ0001 daemon=bacula-sd ref=0x7f16fc00b088 type=job source=bacula18-dir text=Job Start jobid=0 job=-Console-.2022-03-20_21.57.08_35
+bacula-sd: job.c:192-0 sd_calls_client=0 sd_client=0
+bacula-sd: job.c:214-0 -Console-.2022-03-20_21.57.08_35 waiting 1800 sec for FD to contact SD key=FJHL-CACH-BCHC-DGPA-ANBG-EKAE-FKGP-LGII
+bacula-sd: bsock.c:861-0 socket=5 who=client host=172.28.255.18 port=9103
+bacula-sd: bnet_server.c:235-0 Accept socket=172.28.255.17.9103:172.28.255.18.55852 s=0x6e48d8
+bacula-sd: hello.c:161-0 authenticate: Hello Bacula SD: Start Job -Console-.2022-03-20_21.57.08_35 14 tlspsk=0
+bacula-sd: hello.c:188-0 Found Client Job -Console-.2022-03-20_21.57.08_35
+bacula-sd: hello.c:199-0 fd_version=14 sd_version=0
+bacula-sd: authenticatebase.cc:365-0 TLSPSK Remote need 0
+bacula-sd: authenticatebase.cc:335-0 TLSPSK Local need 0
+bacula-sd: cram-md5.c:68-0 send: auth cram-md5 challenge <9008176.1647792741@bacula-sd> ssl=0
+bacula-sd: cram-md5.c:132-0 cram-get received: auth cram-md5 <1692005510.1647792741@test-18-fd> ssl=0
+bacula-sd: cram-md5.c:156-0 sending resp to challenge: p/gFoDsED5guH558sVI+9B
+bacula-sd: hello.c:235-0 OK Authentication jid=0 Job -Console-.2022-03-20_21.57.08_35
+bacula-sd: hello.c:253-0 === Auth OK, unblock Job -Console-.2022-03-20_21.57.08_35 jid=0 sd_ver=0
+bacula-sd: job.c:232-0 === Auth=0 jid=1 canceled=0 errstat=0
+bacula-sd: fd_cmds.c:133-0 ==== JobType=U run_job=0 sd_client=0
+bacula-sd: fd_cmds.c:167-0 Do: do_client_commands
+bacula-sd: events.c:48-0 Events: code=SJ0002 daemon=bacula-sd ref=0x7f16fc00b088 type=job source=bacula18-dir text=Job End jobid=0 job=-Console-.2022-03-20_21.57.08_35 status=T
+bacula-sd: fd_cmds.c:187-0 ==== 3099 Job -Console-.2022-03-20_21.57.08_35 end JobStatus=84 JobFiles=0 JobBytes=0 JobErrors=0 ErrMsg=

@@ -1,0 +1,90 @@
+ip route > /home/sujant/ip_route_$(date +%Y-%m-%d);
+ip route add 10.12.10.0/24 via 10.21.7.1 dev eth0;
+iptables-save > /home/sujant/iptables-$(date +%Y-%m-%d);
+iptables -I INPUT 4 -s 10.12.10.0/24 -p tcp --dport 9102 -j ACCEPT -m comment --comment "bacula";
+
+
+iptables -I OUTPUT 3 -d 10.12.10.0/24 -p tcp --dport 9101 -j ACCEPT -m comment --comment "to-bacula-dir";
+iptables -I OUTPUT 3 -d 202.79.38.59 -p tcp --dport 9103 -j ACCEPT -m comment --comment "to-bck-chdc-01";
+
+
+ip route > /home/sujant/ip_route_$(date +%Y-%m-%d);
+ip route add 10.12.10.0/24 via 10.21.7.1 dev eth0;
+
+iptables -I INPUT 3 -s 202.79.36.170/24 -p tcp --dport 22 -j ACCEPT -m comment --comment "bacula ansible controller";
+
+
+iptables -I INPUT 3 -s 10.12.10.0/24 -p tcp --dport 9102 -j ACCEPT -m comment --comment "bacula";
+
+export https_proxy="http://bck.wlink.com.np:5178"
+export http_proxy="http://bck.wlink.com.np:5178"
+#esupport esupport1 21:30 /usr/admin/scripts/rsyncBackup
+esupport1
+esupport2
+Filesets:
+/usr/admin/scripts/rsyncBackup
+
+
+# mysql mysql-01 22:15 /etc /usr/admin/scripts /root
+mysql-01.wlink.com.np
+mysql-clstr-01 (not in DNS)
+filesets:
+/etc/
+/usr/admin/scripts
+/root
+
+
+# tt tt-01 21:00 /etc /data/vhosts /data/etc/wlink
+tt-01
+tt-02
+filesets:
+/etc/
+/data/vhost/
+/data/etc/wlink/
+
+
+# retail retail-crm 22:00 /backup /scripts
+retail-crm
+retail-crm-slavedb
+filesets:
+/var/www/html
+/etc
+/scripts
+
+
+
+# intrawebs intrawebs-apps-01 22:30 /usr/admin/backup
+intrawebs-apps-012
+www2-intrawebs-apps-02 (no rsync script, need to add)
+www2-intrawebs-apps-01
+filesets:
+/usr/admin/backup
+/usr/admin/scripts
+
+
+api-ebill (10.21.7.177)
+filesets:
+/etc
+/usr/admin/scripts/iptables
+/var/ww/html
+
+
+
+
+www2-01.wlink.com.np
+intrawebs-apps-01.wlink.com.np
+intrawebs-apps-02
+
+
+intrawebs-apps-01
+
+
+cpanels
+
+SN: 1741193BC5E4
+SN: 1741193BC09A
+
+
+
+
+

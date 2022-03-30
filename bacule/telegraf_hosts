@@ -1,0 +1,14 @@
+telegraf-test
+nokiatelegraf-02.mon
+nokiatelegraf-03.mon
+nokiatelegraf-04.mon
+nokiatelegraf-05.mon
+nokiatelegraf-06.mon
+telegraf-pon-01
+telegraf-rx.mon
+
+
+useradd -G wheel ansible; passwd ansible
+
+iptables-save > /home/sujant/iptables-$(date +%Y-%m-%d);
+iptables -I INPUT 2 -s 202.79.36.170 -p tcp --dport 22 -m comment --comment "ansible controller for bacula" -j ACCEPT; 
